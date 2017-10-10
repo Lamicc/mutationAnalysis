@@ -7,7 +7,7 @@ parser = MMCIFParser()
 #pdbl.retrieve_pdb_file('5GL1')
 
 ##load a mmcif file
-struct = parser.get_structure('5gky', '5gky.cif')
+struct = parser.get_structure('5gl1', '5gl1.cif')
 #mmcif_dict = MMCIF2Dict('5t15.cif')
 
 ##get meta data(if any)
@@ -27,18 +27,20 @@ print chains
 
 ##get residues
 ## <Residue VAL het=  resseq=4049 icode= >
-for i in  [2434,4849,614,2206,4808,4631,4940]: #[4844,4849,4843,4838,4820]:
+for i in [2434,4838,615,2206,4808,4630,4939]:#240,965
     #for chain in chains:
     #    if len(chain)>200:
             chain = chains[0]
-            print chain
+            #print chain
             #residues = list(chain.get_residues())
             residue = chain[i]
             #print len(residues)
             print residue
+            atom = residue['CA']
+            print atom.get_coord()
             #print is_aa(residue)
-            atoms = list(residue.get_atoms())
-            print atoms
+            #atoms = list(residue.get_atoms())
+            #print atoms
 
 #residues = list(chains[0].get_residues())
 #print residues
