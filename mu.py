@@ -1,6 +1,8 @@
 #python 2.7
 
 from Bio.PDB import *
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
 
 parser = MMCIFParser()
 #pdbl = PDBList()
@@ -25,8 +27,10 @@ print models
 chains = list(models[0].get_chains())
 print chains
 
-##get residues
-## <Residue VAL het=  resseq=4049 icode= >
+x = []
+y = []
+z = []
+
 for i in [2434,4838,615,2206,4808,4630,4939]:#240,965
     #for chain in chains:
     #    if len(chain)>200:
@@ -37,11 +41,17 @@ for i in [2434,4838,615,2206,4808,4630,4939]:#240,965
             #print len(residues)
             print residue
             atom = residue['CA']
-            print atom.get_coord()
+            x.append(atom.get_coord()[0])
+            y.append(atom.get_coord()[1])
+            z.append(atom.get_coord()[2])
             #print is_aa(residue)
             #atoms = list(residue.get_atoms())
             #print atoms
 
+fig = plt.figure()
+ax = fig.add_subplot(111, projection='3d')
+ax.scatter(x, y, z, c=['b','b','b','b','r','r','r'])
+plt.show()
 #residues = list(chains[0].get_residues())
 #print residues
 
