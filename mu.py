@@ -1,6 +1,7 @@
 #python 2.7
 
 from Bio.PDB import *
+import pandas as pd
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
@@ -10,7 +11,6 @@ parser = MMCIFParser()
 
 ##load a mmcif file
 struct = parser.get_structure('5gl1', '5gl1.cif')
-#mmcif_dict = MMCIF2Dict('5t15.cif')
 
 ##get meta data(if any)
 #print struct.header.keys()
@@ -18,51 +18,63 @@ struct = parser.get_structure('5gl1', '5gl1.cif')
 #print struct.header["release_date"]
 #print struct.header["resolution"]
 
+##load dataset
+try :
+    df = pd.read_csv("./dataframe.csv")
+except IOError:
+    print("File not found!")
+
 ##get models
 it = struct.get_models()
 models = list(it)
-print models
 
 ##get chains
 chains = list(models[0].get_chains())
-print chains
+#print chains
 
+##create coordinate lists
 x = []
 y = []
 z = []
 
-for i in [2434,4838,615,2206,4808,4630,4939]:#240,965
+#for i in [2434,4838,615,2206,4808,4630,4939]:#240,965
+for i in df.Amino_acid:
     #for chain in chains:
     #    if len(chain)>200:
             chain = chains[0]
             #print chain
             #residues = list(chain.get_residues())
-            residue = chain[i]
-            #print len(residues)
-            print residue
-            atom = residue['CA']
-            x.append(atom.get_coord()[0])
-            y.append(atom.get_coord()[1])
-            z.append(atom.get_coord()[2])
-            #print is_aa(residue)
-            #atoms = list(residue.get_atoms())
-            #print atoms
+            try:
+                residue = chain[i]
+                #print(residue)
+                atom = residue['CA']
+                x.append(atom.get_coord()[0])
+                y.append(atom.get_coord()[1])
+                z.append(atom.get_coord()[2])
+            except KeyError:
+                x.append(None)
+                y.append(None)
+                z.append(None)
 
+##add columns to store coordinate
+x = pd.Series(x,name='x')
+y = pd.Series(y,name='y')
+z = pd.Series(z,name='z')
+df = pd.concat([df,x,y,z], axis=1)
+
+##delete rows without coordinate
+df = df.dropna(axis=0, how='any')
+
+##set up color list
+color = []
+for i in df.index:
+    if df.loc[i,'Label'] == "congenital myopathy":
+        color.append('r')
+    else:
+        color.append('b')
+
+##plot
 fig = plt.figure()
 ax = fig.add_subplot(111, projection='3d')
-ax.scatter(x, y, z, c=['b','b','b','b','r','r','r'])
+ax.scatter(df.x, df.y, df.z,c=color)
 plt.show()
-#residues = list(chains[0].get_residues())
-#print residues
-
-
-##get atoms
-#atoms = list(residues[0].get_atoms())
-#print atoms
-
-##get 3D coordinate
-#print atoms[0].get_vector()
-
-"""for res in models[0].get_residues():
-    print res
-"""
