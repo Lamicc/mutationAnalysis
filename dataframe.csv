@@ -375,7 +375,7 @@ NM_000540.2(RYR1):c.1840C>T (p.Arg614Cys),"Malignant hyperthermia, susceptibilit
 NM_000540.2(RYR1):c.2075C>T (p.Thr692Ile),"Malignant hyperthermia, susceptibility to, 1","Uncertain significance(Last reviewed: Jul 1, 2013)","criteria provided, single submitter",19,38458200,224369,226106,692,0
 NM_000540.2(RYR1):c.2173G>A (p.Val725Met),"Malignant hyperthermia, susceptibility to, 1","Uncertain significance(Last reviewed: Jul 1, 2013)","criteria provided, single submitter",19,38459151,224370,226107,725,0
 NM_000540.2(RYR1):c.2255C>T (p.Pro752Leu),"Malignant hyperthermia, susceptibility to, 1","Uncertain significance(Last reviewed: Jul 1, 2013)","criteria provided, single submitter",19,38459233,224371,226108,752,0
-NM_000540.2(RYR1):c.2275A>G (p.Asn759Asp),"Malignant hyperthermia, susceptibility to, 1|not specified|Myopathy, RYR1-associated","Uncertain significance(Last reviewed: Jun 29, 2017)","criteria provided, multiple submitters, no conflicts",19,38459253,161369,171227,759,0
+NM_000540.2(RYR1):c.2275A>G (p.Asn759Asp),"Malignant hyperthermia, susceptibility to, 1|not specified|Myopathy, RYR1-associated","Uncertain significance(Last reviewed: Jun 29, 2017)","criteria provided, multiple submitters, no conflicts",19,38459253,161369,171227,759,1
 NM_000540.2(RYR1):c.2461C>A (p.His821Asn),"Malignant hyperthermia, susceptibility to, 1","Uncertain significance(Last reviewed: Jul 1, 2013)","criteria provided, single submitter",19,38460475,224372,226109,821,0
 NM_000540.2(RYR1):c.2467G>C (p.Glu823Gln),"Malignant hyperthermia, susceptibility to, 1","Uncertain significance(Last reviewed: Jul 1, 2013)","criteria provided, single submitter",19,38460481,224373,226110,823,0
 NM_000540.2(RYR1):c.2533C>T (p.Leu845Phe),"Malignant hyperthermia, susceptibility to, 1","Uncertain significance(Last reviewed: Jul 1, 2013)","criteria provided, single submitter",19,38460547,224374,226111,845,0
@@ -426,7 +426,7 @@ NM_000540.2(RYR1):c.10664A>T (p.Asn3555Ile),"Malignant hyperthermia, susceptibil
 NM_000540.2(RYR1):c.10747G>C (p.Glu3583Gln),"Malignant hyperthermia, susceptibility to, 1|Malignant hyperthermia susceptibility|not specified|not provided|Malignant hypothermia","Benign/Likely benign(Last reviewed: Jun 14, 2016)","criteria provided, multiple submitters, no conflicts",19,38527707,132999,136747,3583,0
 NM_000540.2(RYR1):c.11061_11063delGGA (p.Glu3689del),"Malignant hyperthermia, susceptibility to, 1|Malignant hypothermia","Uncertain significance(Last reviewed: Apr 17, 2015)","criteria provided, multiple submitters, no conflicts",19,38528977 - 38528979,218465,215568,3689,0
 NM_000540.2(RYR1):c.11518G>A (p.Val3840Ile),"Malignant hyperthermia, susceptibility to, 1|not provided","Likely benign(Last reviewed: Jun 1, 2014)",no assertion criteria provided,19,38535998,133013,136761,3840,0
-NM_000540.2(RYR1):c.11557G>A (p.Glu3853Lys),"Malignant hyperthermia, susceptibility to, 1|Muscular dystrophy and arthrogryposis","Uncertain significance(Last reviewed: Jun 1, 2014)","criteria provided, single submitter",19,38536037,161376,171240,3853,0
+NM_000540.2(RYR1):c.11557G>A (p.Glu3853Lys),"Malignant hyperthermia, susceptibility to, 1|Muscular dystrophy and arthrogryposis","Uncertain significance(Last reviewed: Jun 1, 2014)","criteria provided, single submitter",19,38536037,161376,171240,3853,1
 NM_000540.2(RYR1):c.11599C>T (p.Arg3867Cys),"Malignant hyperthermia, susceptibility to, 1","Uncertain significance(Last reviewed: Jul 1, 2013)","criteria provided, single submitter",19,38536758,224400,226138,3867,0
 NM_000540.2(RYR1):c.11731A>G (p.Thr3911Ala),"Malignant hyperthermia, susceptibility to, 1","Uncertain significance(Last reviewed: Jul 1, 2013)","criteria provided, single submitter",19,38543388,224401,226139,3911,0
 NM_000540.2(RYR1):c.11798A>G (p.Tyr3933Cys),"Malignant hyperthermia, susceptibility to, 1|not specified|not provided","Conflicting interpretations of pathogenicity(Last reviewed: Sep 30, 2016)","criteria provided, conflicting interpretations",19,38543551,133021,136769,3933,0
@@ -445,3 +445,461 @@ NM_000540.2(RYR1):c.14929G>C (p.Glu4977Gln),"Malignant hyperthermia, susceptibil
 NM_000540.2(RYR1):c.15073G>A (p.Ala5025Thr),"Malignant hyperthermia, susceptibility to, 1","Uncertain significance(Last reviewed: Mar 30, 2016)","criteria provided, single submitter",19,38587376,374975,361888,5025,0
 NM_000540.2(RYR1):c.15088C>T (p.Arg5030Cys),Malignant hyperthermia,Uncertain significance,no assertion criteria provided,19,38587391,291314,275549,5030,0
 NM_000540.2(RYR1):c.15098A>G (p.Tyr5033Cys),"Malignant hyperthermia, susceptibility to, 1","Uncertain significance(Last reviewed: Jul 1, 2013)","criteria provided, single submitter",19,38587401,224409,226147,5033,0
+NM_000540.2(RYR1):c.35_37delTCCinsCG (p.Phe12Serfs),not provided,not provided,no assertion provided,19,38433864 - 38433866,133128,136875,12,-1
+NM_000540.2(RYR1):c.38T>G (p.Leu13Arg),not provided,not provided,no assertion provided,19,38433867,133129,136876,13,-1
+NM_000540.2(RYR1):c.51_53delTGA (p.Asp17del),not provided,not provided,no assertion provided,19,38440750 - 38440752,133146,136893,17,-1
+NM_000540.2(RYR1):c.94C>T (p.Leu32Phe),not specified,"Uncertain significance(Last reviewed: Apr 19, 2017)","criteria provided, multiple submitters, no conflicts",19,38440793,195083,192244,32,-1
+NM_000540.2(RYR1):c.97A>G (p.Lys33Glu),King Denborough syndrome|not provided,"Pathogenic(Last reviewed: Sep 2, 2008)",no assertion criteria provided,19,38440796,55831,70489,33,-1
+NM_000540.2(RYR1):c.103T>C (p.Cys35Arg),not provided,not provided,no assertion provided,19,38440802,132995,136743,35,-1
+NM_000540.2(RYR1):c.114C>T (p.Ala38=),not specified,Likely benign,"criteria provided, single submitter",19,38440813,256406,256897,38,-1
+NM_000540.2(RYR1):c.123C>T (p.Phe41=),not specified,"Likely benign(Last reviewed: Oct 10, 2016)","criteria provided, single submitter",19,38440822,389560,377601,41,-1
+NM_000540.2(RYR1):c.130C>T (p.Arg44Cys),not provided,not provided,no assertion provided,19,38440829,133045,136793,44,-1
+NM_000540.2(RYR1):c.152C>A (p.Thr51Asn),not specified|not provided,"Uncertain significance(Last reviewed: Apr 30, 2014)","criteria provided, single submitter",19,38440851,133099,136846,51,-1
+NM_000540.2(RYR1):c.153T>C (p.Thr51=),not specified,Likely benign,"criteria provided, single submitter",19,38440852,256458,256898,51,-1
+NM_000540.2(RYR1):c.162G>A (p.Ala54=),not specified,"Likely benign(Last reviewed: Jul 6, 2016)","criteria provided, single submitter",19,38440861,386962,379539,54,-1
+NM_000540.2(RYR1):c.251C>G (p.Thr84Arg),not specified,"Uncertain significance(Last reviewed: May 18, 2017)","criteria provided, single submitter",19,38442434,430468,422263,84,-1
+NM_000540.2(RYR1):c.297G>A (p.Thr99=),not specified,"Benign/Likely benign(Last reviewed: Dec 19, 2016)","criteria provided, multiple submitters, no conflicts",19,38443584,227056,231014,99,-1
+NM_000540.2(RYR1):c.328C>T (p.His110Tyr),not provided,"Likely pathogenic(Last reviewed: Jul 25, 2016)","criteria provided, single submitter",19,38443615,421738,410570,110,-1
+NM_000540.2(RYR1):c.463C>A (p.Gln155Lys),not provided,not provided,no assertion provided,19,38444187,133132,136879,155,-1
+NM_000540.2(RYR1):c.467G>A (p.Arg156Lys),not provided,not provided,no assertion provided,19,38444191,133133,136880,156,-1
+NM_000540.2(RYR1):c.479A>G (p.Glu160Gly),not provided,not provided,no assertion provided,19,38444203,133136,136883,160,-1
+NM_000540.2(RYR1):c.488G>T (p.Arg163Leu),not provided,not provided,no assertion provided,19,38444212,133137,136884,163,-1
+NM_000540.2(RYR1):c.493G>A (p.Gly165Arg),not provided,not provided,no assertion provided,19,38444217,133139,136886,165,-1
+NM_000540.2(RYR1):c.496G>A (p.Asp166Asn),not provided,not provided,no assertion provided,19,38444220,133140,136887,166,-1
+NM_000540.2(RYR1):c.497A>G (p.Asp166Gly),not provided,not provided,no assertion provided,19,38444221,133141,136888,166,-1
+NM_000540.2(RYR1):c.514_519delAGTGTC (p.Val173_Ser174del),not specified,"Uncertain significance(Last reviewed: Jun 4, 2015)","criteria provided, single submitter",19,38444238 - 38444243,198091,195252,173,-1
+NM_000540.2(RYR1):c.526G>A (p.Glu176Lys),not specified,"Uncertain significance(Last reviewed: Feb 8, 2017)","criteria provided, multiple submitters, no conflicts",19,38444250,198090,195251,176,-1
+NM_000540.2(RYR1):c.529C>T (p.Arg177Cys),not provided,not provided,no assertion provided,19,38444253,133147,136894,177,-1
+NM_000540.2(RYR1):c.533A>T (p.Tyr178Phe),not provided,not provided,no assertion provided,19,38444257,133148,136895,178,-1
+NM_000540.2(RYR1):c.624C>T (p.Cys208=),not specified,"Uncertain significance(Last reviewed: Mar 6, 2015)","criteria provided, single submitter",19,38444670,198430,195591,208,-1
+NM_000540.2(RYR1):c.641C>T (p.Thr214Met),not specified,"Uncertain significance(Last reviewed: Jan 13, 2014)","criteria provided, single submitter",19,38446481,167614,177297,214,-1
+NM_000540.2(RYR1):c.652G>A (p.Val218Ile),not provided,not provided,no assertion provided,19,38446492,133160,136907,218,-1
+NM_000540.2(RYR1):c.677T>A (p.Met226Lys),not provided,not provided,no assertion provided,19,38446517,133170,136917,226,-1
+NM_000540.2(RYR1):c.680A>T (p.Asp227Val),not provided,not provided,no assertion provided,19,38446520,133171,136918,227,-1
+NM_000540.2(RYR1):c.722G>A (p.Arg241His),not specified,"Uncertain significance(Last reviewed: May 18, 2017)","criteria provided, single submitter",19,38446562,430199,422264,241,-1
+NM_000540.2(RYR1):c.742G>C (p.Gly248Arg),not provided,"Pathogenic(Last reviewed: Aug 30, 2016)","criteria provided, single submitter",19,38446710,133203,136950,248,-1
+NM_000540.2(RYR1):c.784G>T (p.Glu262Ter),not provided,"Pathogenic(Last reviewed: Oct 10, 2016)","criteria provided, single submitter",19,38446752,436630,430196,262,-1
+NM_000540.2(RYR1):c.831G>C (p.Gln277His),not provided,"Uncertain significance(Last reviewed: Mar 4, 2013)","criteria provided, single submitter",19,38448385,159861,169541,277,-1
+NM_000540.2(RYR1):c.844C>T (p.Arg282Trp),Respiratory insufficiency|Myopathy|Congenital muscular dystrophy,"Likely pathogenic(Last reviewed: May 21, 2014)","criteria provided, single submitter",19,38448398,374200,361045,282,1
+NM_000540.2(RYR1):c.845G>A (p.Arg282Gln),not specified,"Uncertain significance(Last reviewed: May 5, 2015)","criteria provided, single submitter",19,38448399,193601,190764,282,-1
+NM_000540.2(RYR1):c.929C>T (p.Ala310Val),not provided,"Uncertain significance(Last reviewed: Jan 31, 2017)","criteria provided, single submitter",19,38448483,425174,413508,310,-1
+NM_000540.2(RYR1):c.947G>T (p.Arg316Leu),not provided,not provided,no assertion provided,19,38448501,133242,136987,316,-1
+NM_000540.2(RYR1):c.958_960delGAG (p.Glu320del),not specified,"Uncertain significance(Last reviewed: Feb 13, 2017)","criteria provided, single submitter",19,38448649 - 38448651,420138,410571,320,-1
+NM_000540.2(RYR1):c.982C>T (p.Arg328Trp),not provided,not provided,no assertion provided,19,38448673,133245,136990,328,-1
+NM_000540.2(RYR1):c.1001G>T (p.Gly334Val),not provided,"Uncertain significance(Last reviewed: Oct 23, 2013)","criteria provided, single submitter",19,38448692,159825,169544,334,-1
+NM_000540.2(RYR1):c.1014C>A (p.Ile338=),not provided,not provided,no assertion provided,19,38448705,132991,136740,338,-1
+NM_000540.2(RYR1):c.1021G>C (p.Gly341Arg),not provided,not provided,no assertion provided,19,38448712,132992,136741,341,-1
+NM_000540.2(RYR1):c.1035C>G (p.Cys345Trp),not specified,"Uncertain significance(Last reviewed: Jun 2, 2017)","criteria provided, single submitter",19,38448726,432296,426301,345,-1
+NM_000540.2(RYR1):c.1087C>T (p.Pro363Ser),not specified,"Uncertain significance(Last reviewed: Jan 6, 2014)","criteria provided, single submitter",19,38448778,167615,177165,363,-1
+NM_000540.2(RYR1):c.1100G>T (p.Arg367Leu),not provided,not provided,no assertion provided,19,38448791,133004,136752,367,-1
+NM_000540.2(RYR1):c.1100G>A (p.Arg367Gln),not provided,not provided,no assertion provided,19,38448791,133003,136751,367,-1
+NM_000540.2(RYR1):c.1116G>A (p.Lys372=),not provided,not provided,no assertion provided,19,38448807,133006,136754,372,-1
+NM_000540.2(RYR1):c.1140G>A (p.Glu380=),not provided,"Uncertain significance(Last reviewed: Mar 4, 2013)","criteria provided, single submitter",19,38451781,159830,169545,380,-1
+NM_000540.2(RYR1):c.1152C>T (p.Asp384=),not specified,Likely benign,"criteria provided, single submitter",19,38451793,256408,256910,384,-1
+NM_000540.2(RYR1):c.1172G>A (p.Arg391His),not specified,"Uncertain significance(Last reviewed: Dec 19, 2014)","criteria provided, single submitter",19,38451813,194002,191165,391,-1
+NM_000540.2(RYR1):c.1186G>A (p.Glu396Lys),Respiratory insufficiency|Myopathy|Congenital muscular dystrophy,"Likely pathogenic(Last reviewed: May 21, 2014)","criteria provided, single submitter",19,38451827,374199,361046,396,1
+NM_000540.2(RYR1):c.1186_1187delGAinsTC (p.Glu396Ser),not specified,"Uncertain significance(Last reviewed: Oct 23, 2013)","criteria provided, single submitter",19,38451827 - 38451828,212091,208581,396,-1
+NM_000540.2(RYR1):c.1201C>T (p.Arg401Cys),not provided,not provided,no assertion provided,19,38451842,133029,136777,401,-1
+NM_000540.2(RYR1):c.1201C>G (p.Arg401Gly),not provided,not provided,no assertion provided,19,38451842,133028,136776,401,-1
+NM_000540.2(RYR1):c.1202G>A (p.Arg401His),not provided,not provided,no assertion provided,19,38451843,133030,136778,401,-1
+NM_000540.2(RYR1):c.1280_1281dupCG (p.Gly428Argfs),not provided,not provided,no assertion provided,19,38452854 - 38452855,133041,136789,428,-1
+NM_000540.2(RYR1):c.1311C>T (p.Ile437=),not specified,"Likely benign(Last reviewed: Nov 11, 2016)","criteria provided, single submitter",19,38452885,390441,379542,437,-1
+NM_000540.2(RYR1):c.1415A>G (p.Asn472Ser),not specified,"Uncertain significance(Last reviewed: Dec 9, 2016)","criteria provided, single submitter",19,38452989,373343,360408,472,-1
+NM_000540.2(RYR1):c.1418G>A (p.Arg473His),not specified,"Uncertain significance(Last reviewed: Feb 23, 2017)","criteria provided, single submitter",19,38452992,423940,410572,473,-1
+NM_000540.2(RYR1):c.1422G>T (p.Gln474His),not provided,not provided,no assertion provided,19,38452996,133063,136811,474,-1
+NM_000540.2(RYR1):c.1532C>A (p.Ala511Asp),not specified,"Uncertain significance(Last reviewed: Oct 1, 2015)","criteria provided, single submitter",19,38455326,283540,267777,511,-1
+NM_000540.2(RYR1):c.1533C>T (p.Ala511=),not specified,Likely benign,"criteria provided, single submitter",19,38455327,256457,256916,511,-1
+NM_000540.2(RYR1):c.1565A>G (p.Tyr522Cys),not provided,not provided,no assertion provided,19,38455359,133100,136847,522,-1
+NM_000540.2(RYR1):c.1589G>T (p.Arg530Leu),not specified,"Uncertain significance(Last reviewed: Dec 1, 2014)","criteria provided, single submitter",19,38455463,212096,208582,530,-1
+NM_000540.2(RYR1):c.1597C>T (p.Arg533Cys),not provided,not provided,no assertion provided,19,38455471,133102,136849,533,-1
+NM_000540.2(RYR1):c.1615T>C (p.Phe539Leu),not provided,not provided,no assertion provided,19,38455489,133104,136851,539,-1
+NM_000540.2(RYR1):c.1654C>T (p.Arg552Trp),not provided,not provided,no assertion provided,19,38455528,133106,136853,552,-1
+NM_000540.2(RYR1):c.1744A>G (p.Ile582Val),not specified,"Uncertain significance(Last reviewed: Apr 27, 2017)","criteria provided, single submitter",19,38455704,429785,422265,582,-1
+NM_000540.2(RYR1):c.1792G>A (p.Val598Ile),not specified,"Uncertain significance(Last reviewed: May 2, 2017)","criteria provided, single submitter",19,38457497,429411,422266,598,-1
+NM_000540.2(RYR1):c.1825A>G (p.Asn609Asp),not specified,"Uncertain significance(Last reviewed: May 17, 2017)","criteria provided, single submitter",19,38457530,429998,422267,609,-1
+NM_000540.2(RYR1):c.1839A>G (p.Val613=),not specified,Likely benign,"criteria provided, single submitter",19,38457544,256463,256918,613,-1
+NM_000540.2(RYR1):c.1855C>G (p.Leu619Val),not provided,"Uncertain significance(Last reviewed: Jul 31, 2016)","criteria provided, single submitter",19,38457560,374649,361535,619,-1
+NM_000540.2(RYR1):c.1861A>G (p.Thr621Ala),not specified,"Uncertain significance(Last reviewed: Oct 7, 2016)","criteria provided, single submitter",19,38457566,201144,198019,621,-1
+NM_000540.2(RYR1):c.1866G>A (p.Glu622=),not specified,Likely benign,"criteria provided, single submitter",19,38457571,256464,256919,622,-1
+NM_000540.2(RYR1):c.1878_1882delTGGCC (p.Gly627Terfs),Myopathy,"Pathogenic(Last reviewed: Apr 23, 2015)","criteria provided, single submitter",19,38457583 - 38457587,212098,208584,627,1
+NM_000540.2(RYR1):c.1878T>G (p.Pro626=),not provided,not provided,no assertion provided,19,38457583,133109,136856,626,-1
+NM_000540.2(RYR1):c.1901C>G (p.Thr634Arg),not provided,"Likely pathogenic(Last reviewed: Feb 8, 2016)","criteria provided, single submitter",19,38457606,436621,430197,634,-1
+NM_000540.2(RYR1):c.1909A>G (p.Ile637Val),not specified,"Uncertain significance(Last reviewed: Mar 27, 2017)","criteria provided, single submitter",19,38457614,424452,410573,637,-1
+NM_000540.2(RYR1):c.1931G>A (p.Arg644His),not specified,"Uncertain significance(Last reviewed: Jul 11, 2014)","criteria provided, single submitter",19,38458056,194814,191977,644,-1
+NM_000540.2(RYR1):c.1936A>C (p.Asn646His),not specified,"Uncertain significance(Last reviewed: Mar 3, 2017)","criteria provided, single submitter",19,38458061,424070,410574,646,-1
+NM_000540.2(RYR1):c.2037C>A (p.Thr679=),not specified,"Uncertain significance(Last reviewed: Aug 11, 2016)","criteria provided, single submitter",19,38458162,289914,274151,679,-1
+NM_000540.2(RYR1):c.2119G>A (p.Gly707Ser),Multiminicore Disease,"Uncertain significance(Last reviewed: Jun 1, 2014)",no assertion criteria provided,19,38458244,161368,171226,707,1
+NM_000540.2(RYR1):c.2160C>G (p.Leu720=),not specified,"Uncertain significance(Last reviewed: Oct 2, 2015)","criteria provided, single submitter",19,38458285,283872,268109,720,-1
+NM_000540.2(RYR1):c.2199G>C (p.Gly733=),not specified,"Uncertain significance(Last reviewed: May 3, 2017)","criteria provided, single submitter",19,38459177,436620,430198,733,-1
+NM_000540.2(RYR1):c.2292G>A (p.Gln764=),not specified,"Likely benign(Last reviewed: Aug 10, 2016)","criteria provided, single submitter",19,38459270,388222,377419,764,-1
+NM_000540.2(RYR1):c.2365C>T (p.Arg789Trp),not specified,"Uncertain significance(Last reviewed: Feb 2, 2017)","criteria provided, single submitter",19,38460379,423297,410576,789,-1
+NM_000540.2(RYR1):c.2366G>A (p.Arg789Gln),not provided|Malignant hypothermia,"Conflicting interpretations of pathogenicity(Last reviewed: Nov 20, 2015)","criteria provided, conflicting interpretations",19,38460380,159841,169549,789,0
+NM_000540.2(RYR1):c.2411C>T (p.Pro804Leu),not specified,"Uncertain significance(Last reviewed: Dec 29, 2016)","criteria provided, single submitter",19,38460425,392505,376432,804,-1
+NM_000540.2(RYR1):c.2415T>C (p.Pro805=),not specified,"Benign/Likely benign(Last reviewed: Jan 19, 2017)","criteria provided, multiple submitters, no conflicts",19,38460429,256473,256927,805,-1
+NM_000540.2(RYR1):c.2455C>T (p.Arg819Ter),not provided,not provided,no assertion provided,19,38460469,133116,136863,819,-1
+NM_000540.2(RYR1):c.2456G>A (p.Arg819Gln),not specified,"Uncertain significance(Last reviewed: Dec 22, 2015)","criteria provided, single submitter",19,38460470,418460,410577,819,-1
+NM_000540.2(RYR1):c.2528G>A (p.Arg843His),not provided,"Uncertain significance(Last reviewed: Oct 31, 2016)","criteria provided, single submitter",19,38460542,425175,413509,843,-1
+NM_000540.2(RYR1):c.2537C>T (p.Ser846Leu),not provided,not provided,no assertion provided,19,38460551,133117,136864,846,-1
+NM_000540.2(RYR1):c.2544C>T (p.Thr848=),not specified,"Likely benign(Last reviewed: Dec 20, 2016)","criteria provided, single submitter",19,38460558,391770,376437,848,-1
+NM_000540.2(RYR1):c.2590C>T (p.Pro864Ser),not specified,"Uncertain significance(Last reviewed: May 25, 2017)","criteria provided, single submitter",19,38463435,430355,422268,864,-1
+NM_000540.2(RYR1):c.2601G>A (p.Glu867=),not specified,"Likely benign(Last reviewed: Nov 15, 2016)","criteria provided, single submitter",19,38463446,390666,377428,867,-1
+NM_000540.2(RYR1):c.2603G>A (p.Arg868His),not specified,"Uncertain significance(Last reviewed: Mar 27, 2017)","criteria provided, single submitter",19,38463448,419631,410578,868,-1
+NM_000540.2(RYR1):c.2622G>A (p.Ala874=),not specified,"Likely benign(Last reviewed: Nov 1, 2016)","criteria provided, multiple submitters, no conflicts",19,38463467,256479,256932,874,-1
+NM_000540.2(RYR1):c.2634C>T (p.His878=),not specified,Likely benign,"criteria provided, single submitter",19,38463479,256480,256933,878,-1
+NM_000540.2(RYR1):c.2635G>A (p.Glu879Lys),not specified,"Uncertain significance(Last reviewed: Oct 13, 2016)","criteria provided, multiple submitters, no conflicts",19,38463480,282797,267034,879,-1
+NM_000540.2(RYR1):c.2658C>T (p.Ile886=),not specified,"Uncertain significance(Last reviewed: Nov 19, 2014)","criteria provided, single submitter",19,38463503,212101,208587,886,-1
+NM_000540.2(RYR1):c.2679C>T (p.Gly893=),not specified,Likely benign,"criteria provided, single submitter",19,38463524,256481,256934,893,-1
+NM_000540.2(RYR1):c.2682G>A (p.Pro894=),not provided,"Likely pathogenic(Last reviewed: Dec 17, 2015)","criteria provided, single submitter",19,38463527,432001,426302,894,-1
+NM_000540.2(RYR1):c.2712G>A (p.Pro904=),not provided,not provided,no assertion provided,19,38463776,133120,136867,904,-1
+NM_000540.2(RYR1):c.2943G>C (p.Thr981=),not provided,not provided,no assertion provided,19,38466163,133121,136868,981,-1
+NM_000540.2(RYR1):c.3014G>A (p.Ser1005Asn),not specified,"Uncertain significance(Last reviewed: Oct 20, 2016)","criteria provided, single submitter",19,38466234,436623,430200,1005,-1
+NM_000540.2(RYR1):c.3047G>A (p.Arg1016Gln),not specified,"Uncertain significance(Last reviewed: May 18, 2016)","criteria provided, single submitter",19,38466267,287350,271587,1016,-1
+NM_000540.2(RYR1):c.3108C>A (p.Asp1036Glu),not specified,"Uncertain significance(Last reviewed: Oct 20, 2015)","criteria provided, single submitter",19,38466328,284174,268411,1036,-1
+NM_000540.2(RYR1):c.3144C>T (p.Tyr1048=),not specified,Likely benign,"criteria provided, single submitter",19,38466364,256489,256942,1048,-1
+NM_000540.2(RYR1):c.3175C>T (p.Pro1059Ser),not specified,"Uncertain significance(Last reviewed: Oct 1, 2015)","criteria provided, single submitter",19,38466395,283543,267780,1059,-1
+NM_000540.2(RYR1):c.3202T>C (p.Cys1068Arg),Muscle weakness|Weakness,"Uncertain significance(Last reviewed: Dec 14, 2015)","criteria provided, single submitter",19,38467633,373917,361047,1068,-1
+NM_000540.2(RYR1):c.3224G>A (p.Arg1075Gln),Arthrogryposis multiplex congenita,"Likely pathogenic(Last reviewed: May 16, 2017)","criteria provided, single submitter",19,38467655,433176,426749,1075,1
+NM_000540.2(RYR1):c.3235_3240dupTCCTAT (p.Tyr1080_Thr1081insSerTyr),Myopathy,"Likely pathogenic(Last reviewed: May 28, 2015)","criteria provided, single submitter",19,38467666 - 38467671,212102,208588,1080,1
+NM_000540.2(RYR1):c.3301G>A (p.Val1101Met),not specified,"Uncertain significance(Last reviewed: May 13, 2016)","criteria provided, single submitter",19,38467732,201148,198025,1101,-1
+NM_000540.2(RYR1):c.3312G>A (p.Ala1104=),not specified,"Likely benign(Last reviewed: Mar 11, 2016)","criteria provided, single submitter",19,38467743,384295,377429,1104,-1
+NM_000540.2(RYR1):c.3362A>G (p.Tyr1121Cys),not provided,"Likely pathogenic(Last reviewed: Mar 10, 2017)","criteria provided, single submitter",19,38467793,420141,410579,1121,-1
+NM_000540.2(RYR1):c.3418C>T (p.Arg1140Cys),not specified|not provided,"Uncertain significance(Last reviewed: Dec 21, 2016)","criteria provided, single submitter",19,38469002,133126,136873,1140,-1
+NM_000540.2(RYR1):c.3441C>T (p.Val1147=),not specified,"Likely benign(Last reviewed: Oct 10, 2016)","criteria provided, single submitter",19,38469025,389708,377434,1147,-1
+NM_000540.2(RYR1):c.3494G>A (p.Gly1165Asp),not provided,"Uncertain significance(Last reviewed: Jan 2, 2014)","criteria provided, single submitter",19,38469078,159843,169551,1165,-1
+NM_000540.2(RYR1):c.3505A>C (p.Met1169Leu),not specified,Likely benign,"criteria provided, single submitter",19,38469089,256494,256947,1169,-1
+NM_000540.2(RYR1):c.3535C>T (p.Arg1179Trp),Scoliosis|Proximal muscle weakness|Delayed gross motor development|Pelvic girdle muscle weakness|Progressive distal muscle weakness,"Likely pathogenic(Last reviewed: Aug 29, 2014)","criteria provided, single submitter",19,38469119,374168,361048,1179,1
+NM_000540.2(RYR1):c.3618C>T (p.Asp1206=),not specified,"Likely benign(Last reviewed: Nov 15, 2016)","criteria provided, single submitter",19,38469366,390799,379544,1206,-1
+NM_000540.2(RYR1):c.3686T>C (p.Met1229Thr),not specified,"Uncertain significance(Last reviewed: Aug 19, 2015)","criteria provided, single submitter",19,38469434,436624,430201,1229,-1
+NM_000540.2(RYR1):c.3751C>A (p.His1251Asn),not specified,"Uncertain significance(Last reviewed: Feb 9, 2017)","criteria provided, single submitter",19,38469499,423326,410580,1251,-1
+NM_000540.2(RYR1):c.3778G>A (p.Asp1260Asn),not specified,"Uncertain significance(Last reviewed: Feb 27, 2017)","criteria provided, single submitter",19,38473389,423687,410581,1260,-1
+NM_000540.2(RYR1):c.3800C>G (p.Pro1267Arg),Multiminicore Disease,"Uncertain significance(Last reviewed: Jun 1, 2014)",no assertion criteria provided,19,38473411,161370,171231,1267,1
+NM_000540.2(RYR1):c.3801dupC (p.Cys1268Leufs),not provided,"Likely pathogenic(Last reviewed: Jun 26, 2014)","criteria provided, single submitter",19,38473412,159844,169552,1268,-1
+NM_000540.2(RYR1):c.3873C>T (p.Ser1291=),not specified,Likely benign,"criteria provided, single submitter",19,38473484,256498,256951,1291,-1
+NM_000540.2(RYR1):c.3951C>T (p.Pro1317=),not provided,"Uncertain significance(Last reviewed: Nov 30, 2016)","criteria provided, single submitter",19,38473562,425176,413510,1317,-1
+NM_000540.2(RYR1):c.3964_3982dup19 (p.Asp1328Glyfs),not provided,"Likely pathogenic(Last reviewed: Jan 12, 2017)","criteria provided, single submitter",19,38473575 - 38473593,422979,410582,1328,-1
+NM_000540.2(RYR1):c.3966C>G (p.Ala1322=),not specified,Likely benign,"criteria provided, single submitter",19,38473577,256499,256952,1322,-1
+NM_000540.2(RYR1):c.4088C>T (p.Ala1363Val),not specified|not provided,"Uncertain significance(Last reviewed: May 3, 2017)","criteria provided, multiple submitters, no conflicts",19,38473699,201150,198026,1363,-1
+NM_000540.2(RYR1):c.4090G>T (p.Gly1364Trp),not provided,"Uncertain significance(Last reviewed: Mar 4, 2013)","criteria provided, single submitter",19,38473701,159847,169555,1364,-1
+NM_000540.2(RYR1):c.4094dupG (p.Glu1366Argfs),not provided,"Pathogenic(Last reviewed: Apr 28, 2014)","criteria provided, single submitter",19,38473705,159848,169556,1366,-1
+NM_000540.2(RYR1):c.4101G>A (p.Ala1367=),not specified,Likely benign,"criteria provided, single submitter",19,38473712,256501,256954,1367,-1
+NM_000540.2(RYR1):c.4113G>C (p.Arg1371Ser),not specified,"Uncertain significance(Last reviewed: Oct 17, 2014)","criteria provided, single submitter",19,38473724,196108,193269,1371,-1
+NM_000540.2(RYR1):c.4115C>T (p.Ala1372Val),Congenital myasthenic syndrome|not provided,"Uncertain significance(Last reviewed: Sep 30, 2016)","criteria provided, multiple submitters, no conflicts",19,38473726,374135,361049,1372,1
+NM_000540.2(RYR1):c.4225C>T (p.Arg1409Ter),not provided,"Pathogenic(Last reviewed: Dec 2, 2013)","criteria provided, single submitter",19,38475382,159849,169557,1409,-1
+NM_000540.2(RYR1):c.4230C>T (p.Leu1410=),not specified,"Uncertain significance(Last reviewed: Dec 16, 2015)","criteria provided, single submitter",19,38475387,285250,269487,1410,-1
+NM_000540.2(RYR1):c.4236C>G (p.His1412Gln),Congenital myasthenic syndrome,"Uncertain significance(Last reviewed: Jan 15, 2015)","criteria provided, single submitter",19,38475393,374136,361050,1412,1
+NM_000540.2(RYR1):c.4259G>A (p.Arg1420His),not specified,"Uncertain significance(Last reviewed: May 1, 2017)","criteria provided, single submitter",19,38475416,426139,415649,1420,-1
+NM_000540.2(RYR1):c.4269C>G (p.Pro1423=),not specified,Likely benign,"criteria provided, single submitter",19,38475426,256505,256957,1423,-1
+NM_000540.2(RYR1):c.4293G>A (p.Thr1431=),not specified,"Uncertain significance(Last reviewed: Feb 5, 2014)","criteria provided, single submitter",19,38475450,167616,178026,1431,-1
+NM_000540.2(RYR1):c.4466G>A (p.Ser1489Asn),not provided,"Uncertain significance(Last reviewed: Mar 4, 2013)","criteria provided, single submitter",19,38478446,159850,169558,1489,-1
+NM_000540.2(RYR1):c.4485_4500del16 (p.Trp1495Terfs),not provided,"Pathogenic(Last reviewed: Aug 10, 2016)","criteria provided, single submitter",19,38478465 - 38478480,280275,265070,1495,-1
+NM_000540.2(RYR1):c.4488C>T (p.Gly1496=),not specified,Likely benign,"criteria provided, single submitter",19,38478468,256510,256962,1496,-1
+NM_000540.2(RYR1):c.4590delC (p.Asn1531Metfs),not provided,"Likely pathogenic(Last reviewed: Sep 19, 2016)","criteria provided, single submitter",19,38478570,418461,410583,1531,-1
+NM_000540.2(RYR1):c.4672C>T (p.Gln1558Ter),not provided,"Pathogenic(Last reviewed: Jun 9, 2015)","criteria provided, single submitter",19,38483078,419203,410584,1558,-1
+NM_000540.2(RYR1):c.4682T>A (p.Ile1561Asn),not specified,"Uncertain significance(Last reviewed: Nov 25, 2016)","criteria provided, single submitter",19,38483088,373510,360409,1561,-1
+NM_000540.2(RYR1):c.4717C>T (p.Pro1573Ser),not specified,"Uncertain significance(Last reviewed: May 3, 2017)","criteria provided, single submitter",19,38483299,429620,422269,1573,-1
+NM_000540.2(RYR1):c.4764G>A (p.Pro1588=),not specified,Likely benign,"criteria provided, single submitter",19,38483346,256519,256969,1588,-1
+NM_000540.2(RYR1):c.4775C>T (p.Pro1592Leu),not provided,"Uncertain significance(Last reviewed: Nov 30, 2016)","criteria provided, single submitter",19,38483357,133135,136882,1592,-1
+NM_000540.2(RYR1):c.4776G>A (p.Pro1592=),not specified,Likely benign,"criteria provided, single submitter",19,38483358,256520,256970,1592,-1
+NM_000540.2(RYR1):c.4782G>A (p.Leu1594=),not provided,"Uncertain significance(Last reviewed: Jan 31, 2017)","criteria provided, single submitter",19,38483364,425177,413511,1594,-1
+NM_000540.2(RYR1):c.4852C>T (p.Arg1618Cys),not provided,"Uncertain significance(Last reviewed: Dec 31, 2016)","criteria provided, single submitter",19,38483434,425178,413512,1618,-1
+NM_000540.2(RYR1):c.4879G>A (p.Val1627Met),not specified,"Uncertain significance(Last reviewed: Jan 20, 2017)","criteria provided, single submitter",19,38483461,393147,377604,1627,-1
+NM_000540.2(RYR1):c.4902C>G (p.Thr1634=),not specified,"Likely benign(Last reviewed: Dec 22, 2016)","criteria provided, multiple submitters, no conflicts",19,38483484,256521,256971,1634,-1
+NM_000540.2(RYR1):c.4911G>A (p.Ala1637=),not provided,"Uncertain significance(Last reviewed: Sep 30, 2016)","criteria provided, single submitter",19,38483493,425179,413513,1637,-1
+NM_000540.2(RYR1):c.4931A>G (p.Asn1644Ser),not provided,"Uncertain significance(Last reviewed: Aug 31, 2016)","criteria provided, single submitter",19,38483513,374460,361346,1644,-1
+NM_000540.2(RYR1):c.4934G>A (p.Arg1645Gln),not provided,not provided,no assertion provided,19,38483516,133138,136885,1645,-1
+NM_000540.2(RYR1):c.4978C>G (p.Arg1660Gly),not specified,"Uncertain significance(Last reviewed: May 9, 2017)","criteria provided, single submitter",19,38485633,429482,422270,1660,-1
+NM_000540.2(RYR1):c.4980C>T (p.Arg1660=),not specified,"Uncertain significance(Last reviewed: Aug 31, 2016)","criteria provided, single submitter",19,38485635,289917,274154,1660,-1
+NM_000540.2(RYR1):c.5000G>A (p.Arg1667His),not specified,"Uncertain significance(Last reviewed: Dec 13, 2016)","criteria provided, single submitter",19,38485655,373680,360414,1667,-1
+NM_000540.2(RYR1):c.5037C>G (p.Arg1679=),not specified,"Benign/Likely benign(Last reviewed: Dec 2, 2016)","criteria provided, multiple submitters, no conflicts",19,38485692,256525,256975,1679,-1
+NM_000540.2(RYR1):c.5046C>T (p.His1682=),not specified,Likely benign,"criteria provided, single submitter",19,38485701,256526,256976,1682,-1
+NM_000540.2(RYR1):c.5110G>A (p.Gly1704Ser),not provided,not provided,no assertion provided,19,38485765,133142,136889,1704,-1
+NM_000540.2(RYR1):c.5120G>A (p.Arg1707His),"not specified|Myopathy, RYR1-associated","Uncertain significance(Last reviewed: Sep 2, 2016)","criteria provided, single submitter",19,38485775,161373,171235,1707,1
+NM_000540.2(RYR1):c.5132A>C (p.Tyr1711Ser),not specified,"Uncertain significance(Last reviewed: Jan 16, 2017)","criteria provided, single submitter",19,38485787,382697,376442,1711,-1
+NM_000540.2(RYR1):c.5182T>C (p.Ser1728Pro),not provided,not provided,no assertion provided,19,38485837,133143,136890,1728,-1
+NM_000540.2(RYR1):c.5186T>G (p.Met1729Arg),not provided,not provided,no assertion provided,19,38485841,133145,136892,1729,-1
+NM_000540.2(RYR1):c.5309C>A (p.Ser1770Ter),not provided,"Likely pathogenic(Last reviewed: May 15, 2017)","criteria provided, single submitter",19,38485964,429732,422271,1770,-1
+NM_000540.2(RYR1):c.5309C>T (p.Ser1770Leu),not specified,"Uncertain significance(Last reviewed: Jul 30, 2013)","criteria provided, single submitter",19,38485964,93272,99179,1770,-1
+NM_000540.2(RYR1):c.5336C>T (p.Pro1779Leu),not specified,"Uncertain significance(Last reviewed: Apr 28, 2015)","criteria provided, single submitter",19,38485991,196883,194044,1779,-1
+NM_000540.2(RYR1):c.5340_5341delCT (p.Cys1781Phefs),not provided,"Pathogenic(Last reviewed: Mar 10, 2017)","criteria provided, single submitter",19,38485995 - 38485996,422691,410585,1781,-1
+NM_000540.2(RYR1):c.5364T>G (p.Ala1788=),not specified,"Conflicting interpretations of pathogenicity(Last reviewed: Nov 17, 2014)","criteria provided, conflicting interpretations",19,38486019,196882,194043,1788,-1
+NM_000540.2(RYR1):c.5439G>A (p.Arg1813=),not specified,"Likely benign(Last reviewed: Jul 28, 2016)","criteria provided, single submitter",19,38486094,387568,376443,1813,-1
+NM_000540.2(RYR1):c.5441T>A (p.Met1814Lys),not provided,not provided,no assertion provided,19,38486096,133150,136897,1814,-1
+NM_000540.2(RYR1):c.5469G>A (p.Gly1823=),not specified,Likely benign,"criteria provided, single submitter",19,38486124,256527,256977,1823,-1
+NM_000540.2(RYR1):c.5488G>A (p.Val1830Ile),not specified,"Uncertain significance(Last reviewed: Oct 6, 2015)","criteria provided, single submitter",19,38486143,283551,267788,1830,-1
+NM_000540.2(RYR1):c.5619G>A (p.Glu1873=),not provided,not provided,no assertion provided,19,38489248,133151,136898,1873,-1
+NM_000540.2(RYR1):c.5671_5673delGAG (p.Glu1891del),not specified,"Likely benign(Last reviewed: Feb 18, 2015)","criteria provided, single submitter",19,38489300 - 38489302,196940,194101,1891,-1
+NM_000540.2(RYR1):c.5674_5676delAAG (p.Lys1892del),not provided,"Uncertain significance(Last reviewed: Feb 17, 2014)","criteria provided, single submitter",19,38489303 - 38489305,159854,169562,1892,-1
+NM_000540.2(RYR1):c.5736G>A (p.Glu1912=),not specified,"Uncertain significance(Last reviewed: Sep 9, 2014)","criteria provided, single submitter",19,38489365,196939,194100,1912,-1
+NM_000540.2(RYR1):c.5910G>C (p.Gln1970His),not provided,"Likely pathogenic(Last reviewed: Jul 15, 2016)","criteria provided, single submitter",19,38490171,436625,430202,1970,-1
+NM_000540.2(RYR1):c.5926C>T (p.Arg1976Cys),not specified,"Uncertain significance(Last reviewed: Feb 20, 2017)","criteria provided, single submitter",19,38490187,423551,410587,1976,-1
+NM_000540.2(RYR1):c.5938delC (p.Leu1980Serfs),not provided,not provided,no assertion provided,19,38490199,133153,136900,1980,-1
+NM_000540.2(RYR1):c.5942T>G (p.Ile1981Arg),not specified,"Uncertain significance(Last reviewed: Jan 10, 2017)","criteria provided, single submitter",19,38490203,392731,377612,1981,-1
+NM_000540.2(RYR1):c.5988C>T (p.Arg1996=),not provided,not provided,no assertion provided,19,38490249,133154,136901,1996,-1
+NM_000540.2(RYR1):c.6052G>C (p.Glu2018Gln),Malignant hypothermia,"Uncertain significance(Last reviewed: Jul 30, 2015)","criteria provided, single submitter",19,38490657,252489,247164,2018,0
+NM_000540.2(RYR1):c.6150G>A (p.Glu2050=),not specified,"Uncertain significance(Last reviewed: Feb 5, 2014)","criteria provided, single submitter",19,38492512,167618,178028,2050,-1
+NM_000540.2(RYR1):c.6208G>A (p.Val2070Met),not specified,"Uncertain significance(Last reviewed: Jun 15, 2017)","criteria provided, single submitter",19,38492570,432698,426304,2070,-1
+NM_000540.2(RYR1):c.6232G>T (p.Glu2078Ter),not provided,"Pathogenic(Last reviewed: Sep 14, 2015)","criteria provided, single submitter",19,38492594,429839,422272,2078,-1
+NM_000540.2(RYR1):c.6349G>C (p.Val2117Leu),not provided,not provided,no assertion provided,19,38494426,133156,136903,2117,-1
+NM_000540.2(RYR1):c.6359T>C (p.Met2120Thr),not specified,"Uncertain significance(Last reviewed: Aug 20, 2012)","criteria provided, single submitter",19,38494436,93280,99187,2120,-1
+NM_000540.2(RYR1):c.6387C>G (p.Asp2129Glu),not provided,not provided,no assertion provided,19,38494464,133157,136904,2129,-1
+NM_000540.2(RYR1):c.6388G>A (p.Gly2130Arg),not provided,not provided,no assertion provided,19,38494465,133158,136905,2130,-1
+NM_000540.2(RYR1):c.6406C>T (p.Arg2136Cys),not specified,"Uncertain significance(Last reviewed: Jul 15, 2016)","criteria provided, single submitter",19,38494483,288564,272801,2136,-1
+NM_000540.2(RYR1):c.6421G>T (p.Ala2141Ser),not specified,"Uncertain significance(Last reviewed: Feb 10, 2017)","criteria provided, single submitter",19,38494498,423406,410588,2141,-1
+NM_000540.2(RYR1):c.6488G>C (p.Arg2163Pro),not provided,not provided,no assertion provided,19,38494565,133159,136906,2163,-1
+NM_000540.2(RYR1):c.6516C>G (p.Pro2172=),not specified,Likely benign,"criteria provided, single submitter",19,38494593,256534,256981,2172,-1
+NM_000540.2(RYR1):c.6544A>T (p.Ile2182Phe),not provided,not provided,no assertion provided,19,38494621,133161,136908,2182,-1
+NM_000540.2(RYR1):c.6561C>T (p.Asn2187=),not specified,"Likely benign(Last reviewed: Aug 8, 2016)","criteria provided, single submitter",19,38496227,387885,376444,2187,-1
+NM_000540.2(RYR1):c.6564C>G (p.Asn2188Lys),not specified,"Uncertain significance(Last reviewed: Oct 15, 2013)","criteria provided, single submitter",19,38496230,93282,99189,2188,-1
+NM_000540.2(RYR1):c.6566_6567delAA (p.Lys2189Serfs),not provided,"Likely pathogenic(Last reviewed: Apr 22, 2016)","criteria provided, single submitter",19,38496232 - 38496233,421003,410589,2189,-1
+NM_000540.2(RYR1):c.6599C>T (p.Ala2200Val),not provided,not provided,no assertion provided,19,38496265,133162,136909,2200,-1
+NM_000540.2(RYR1):c.6612C>T (p.His2204=),not specified,Likely benign,"criteria provided, single submitter",19,38496278,256537,256984,2204,-1
+NM_000540.2(RYR1):c.6612C>G (p.His2204Gln),not provided,not provided,no assertion provided,19,38496278,133163,136910,2204,-1
+NM_000540.2(RYR1):c.6617C>G (p.Thr2206Arg),not provided,not provided,no assertion provided,19,38496283,133164,136911,2206,-1
+NM_000540.2(RYR1):c.6628G>T (p.Val2210Phe),not provided,not provided,no assertion provided,19,38496294,133165,136912,2210,-1
+NM_000540.2(RYR1):c.6631A>C (p.Met2211Leu),not provided,"Likely pathogenic(Last reviewed: Nov 19, 2015)","criteria provided, single submitter",19,38496297,430273,422273,2211,-1
+NM_000540.2(RYR1):c.6635T>C (p.Val2212Ala),not provided,not provided,no assertion provided,19,38496301,133167,136914,2212,-1
+NM_000540.2(RYR1):c.6635T>A (p.Val2212Asp),not provided,not provided,no assertion provided,19,38496301,133166,136913,2212,-1
+NM_000540.2(RYR1):c.6639C>T (p.Asn2213=),not specified,Likely benign,"criteria provided, single submitter",19,38496305,256538,256985,2213,-1
+NM_000540.2(RYR1):c.6669C>T (p.Ile2223=),not provided,not provided,no assertion provided,19,38496414,133169,136916,2223,-1
+NM_000540.2(RYR1):c.6789C>T (p.Ile2263=),not specified,"Likely benign(Last reviewed: May 24, 2016)","criteria provided, single submitter",19,38496534,385977,379548,2263,-1
+NM_000540.2(RYR1):c.6806dupG (p.Ser2270Leufs),not provided,"Pathogenic(Last reviewed: Apr 15, 2016)","criteria provided, single submitter",19,38496869,280096,264949,2270,-1
+NM_000540.2(RYR1):c.6821A>G (p.Asp2274Gly),not specified,"Uncertain significance(Last reviewed: Feb 21, 2017)","criteria provided, single submitter",19,38496884,423558,410590,2274,-1
+NM_000540.2(RYR1):c.6884T>C (p.Leu2295Pro),not specified,"Uncertain significance(Last reviewed: May 31, 2017)","criteria provided, single submitter",19,38496947,432344,426305,2295,-1
+NM_000540.2(RYR1):c.6904C>T (p.Leu2302=),not specified,"Uncertain significance(Last reviewed: Jun 10, 2015)","criteria provided, single submitter",19,38499120,281385,265622,2302,-1
+NM_000540.2(RYR1):c.7007G>A (p.Arg2336His),not provided,not provided,no assertion provided,19,38499223,133174,136921,2336,-1
+NM_000540.2(RYR1):c.7020C>T (p.Phe2340=),not specified,Likely benign,"criteria provided, single submitter",19,38499236,256545,256992,2340,-1
+NM_000540.2(RYR1):c.7026C>T (p.Asn2342=),not specified,Likely benign,"criteria provided, single submitter",19,38499242,256546,256993,2342,-1
+NM_000540.2(RYR1):c.7032G>C (p.Glu2344Asp),not provided,not provided,no assertion provided,19,38499639,133178,136925,2344,-1
+NM_000540.2(RYR1):c.7036G>A (p.Val2346Met),not provided,not provided,no assertion provided,19,38499643,133179,136926,2346,-1
+NM_000540.2(RYR1):c.7043A>G (p.Glu2348Gly),not provided,not provided,no assertion provided,19,38499650,133181,136928,2348,-1
+NM_000540.2(RYR1):c.7063C>T (p.Arg2355Trp),not provided,"Pathogenic(Last reviewed: Aug 8, 2016)","criteria provided, single submitter",19,38499670,133183,136930,2355,-1
+NM_000540.2(RYR1):c.7085A>G (p.Glu2362Gly),not provided,not provided,no assertion provided,19,38499692,133184,136931,2362,-1
+NM_000540.2(RYR1):c.7090T>G (p.Phe2364Val),not provided,not provided,no assertion provided,19,38499697,133185,136932,2364,-1
+NM_000540.2(RYR1):c.7097C>G (p.Pro2366Arg),not provided,not provided,no assertion provided,19,38499704,133186,136933,2366,-1
+NM_000540.2(RYR1):c.7102C>G (p.Leu2368Val),not specified,"Uncertain significance(Last reviewed: Apr 17, 2017)","criteria provided, single submitter",19,38499709,426424,415650,2368,-1
+NM_000540.2(RYR1):c.7102C>T (p.Leu2368=),not provided,not provided,no assertion provided,19,38499709,133188,136935,2368,-1
+NM_000540.2(RYR1):c.7111G>A (p.Glu2371Lys),Short stature|Delayed gross motor development|Congenital contracture|Proximal amyotrophy,"Pathogenic(Last reviewed: Apr 1, 2014)","criteria provided, single submitter",19,38499718,374164,361051,2371,-1
+NM_000540.2(RYR1):c.7121C>T (p.Ser2374Leu),not specified,"Uncertain significance(Last reviewed: May 31, 2017)","criteria provided, single submitter",19,38499728,430525,422274,2374,-1
+NM_000540.2(RYR1):c.7124G>C (p.Gly2375Ala),not provided,not provided,no assertion provided,19,38499731,133189,136936,2375,-1
+NM_000540.2(RYR1):c.7173G>A (p.Ala2391=),not specified,Likely benign,"criteria provided, single submitter",19,38499780,256548,256995,2391,-1
+NM_000540.2(RYR1):c.7204C>T (p.Arg2402Trp),not specified,"Uncertain significance(Last reviewed: Apr 10, 2015)","criteria provided, single submitter",19,38499811,212105,208590,2402,-1
+NM_000540.2(RYR1):c.7244G>A (p.Arg2415Gln),not specified,"Uncertain significance(Last reviewed: Dec 1, 2015)","criteria provided, single submitter",19,38499937,224694,226484,2415,-1
+NM_000540.2(RYR1):c.7261G>C (p.Ala2421Pro),not provided,not provided,no assertion provided,19,38499954,133192,136939,2421,-1
+NM_000540.2(RYR1):c.7282G>A (p.Ala2428Thr),not provided,not provided,no assertion provided,19,38499975,133193,136940,2428,-1
+NM_000540.2(RYR1):c.7291G>T (p.Asp2431Tyr),not provided,not provided,no assertion provided,19,38499984,133195,136942,2431,-1
+NM_000540.2(RYR1):c.7304G>T (p.Arg2435Leu),not provided,not provided,no assertion provided,19,38499997,133196,136943,2435,-1
+NM_000540.2(RYR1):c.7310C>T (p.Ala2437Val),not provided,not provided,no assertion provided,19,38500003,133197,136944,2437,-1
+NM_000540.2(RYR1):c.7317G>C (p.Glu2439Asp),not provided,not provided,no assertion provided,19,38500010,133198,136945,2439,-1
+NM_000540.2(RYR1):c.7355G>A (p.Arg2452Gln),not provided,not provided,no assertion provided,19,38500637,133201,136948,2452,-1
+NM_000540.2(RYR1):c.7425G>A (p.Gln2475=),not provided,"Uncertain significance(Last reviewed: Mar 4, 2013)","criteria provided, single submitter",19,38500707,159858,169566,2475,-1
+NM_000540.2(RYR1):c.7487C>G (p.Pro2496Arg),not provided,"Uncertain significance(Last reviewed: Oct 23, 2013)","criteria provided, single submitter",19,38500863,159859,169567,2496,-1
+NM_000540.2(RYR1):c.7500G>T (p.Ala2500=),not provided,not provided,no assertion provided,19,38500876,133205,136952,2500,-1
+NM_000540.2(RYR1):c.7522C>G (p.Arg2508Gly),not provided,not provided,no assertion provided,19,38500898,133206,136953,2508,-1
+NM_000540.2(RYR1):c.7523G>A (p.Arg2508His),not provided,not provided,no assertion provided,19,38500899,133207,136954,2508,-1
+NM_000540.2(RYR1):c.7524T>G (p.Arg2508=),not specified,Likely benign,"criteria provided, single submitter",19,38500900,256552,256998,2508,-1
+NM_000540.2(RYR1):c.7528T>C (p.Tyr2510His),not provided,not provided,no assertion provided,19,38500904,133208,136955,2510,-1
+NM_000540.2(RYR1):c.7584C>G (p.Pro2528=),not specified,Benign,"criteria provided, single submitter",19,38500960,256553,256999,2528,-1
+NM_000540.2(RYR1):c.7598C>T (p.Ala2533Val),not specified,"Uncertain significance(Last reviewed: Apr 3, 2017)","criteria provided, single submitter",19,38500974,426809,415651,2533,-1
+NM_000540.2(RYR1):c.7608G>A (p.Leu2536=),not specified,"Uncertain significance(Last reviewed: Aug 4, 2016)","criteria provided, single submitter",19,38500984,290019,274256,2536,-1
+NM_000540.2(RYR1):c.7648C>G (p.Leu2550Val),not provided,not provided,no assertion provided,19,38502540,133210,136957,2550,-1
+NM_000540.2(RYR1):c.7692G>A (p.Lys2564=),not specified,Likely benign,"criteria provided, single submitter",19,38502584,256555,257001,2564,-1
+NM_000540.2(RYR1):c.7740C>T (p.Asp2580=),not specified,"Likely benign(Last reviewed: Dec 15, 2016)","criteria provided, single submitter",19,38502632,391772,376445,2580,-1
+NM_000540.2(RYR1):c.7771C>T (p.Arg2591Trp),not provided,not provided,no assertion provided,19,38502663,133211,136958,2591,-1
+NM_000540.2(RYR1):c.7771C>G (p.Arg2591Gly),not specified|not provided,"Uncertain significance(Last reviewed: Aug 9, 2013)","criteria provided, single submitter",19,38502663,93291,99198,2591,-1
+NM_000540.2(RYR1):c.7787C>T (p.Thr2596Ile),not provided,not provided,no assertion provided,19,38502679,133212,136959,2596,-1
+NM_000540.2(RYR1):c.7830C>T (p.Leu2610=),not specified,"Likely benign(Last reviewed: Apr 15, 2016)","criteria provided, single submitter",19,38502722,384862,377618,2610,-1
+NM_000540.2(RYR1):c.7851G>A (p.Ser2617=),not specified,"Likely benign(Last reviewed: Jul 21, 2016)","criteria provided, single submitter",19,38502895,387813,376454,2617,-1
+NM_000540.2(RYR1):c.7860G>A (p.Gln2620=),not specified,Likely benign,"criteria provided, single submitter",19,38502904,256564,257010,2620,-1
+NM_000540.2(RYR1):c.7876C>T (p.Leu2626=),not specified,Likely benign,"criteria provided, single submitter",19,38502920,256565,257011,2626,-1
+NM_000540.2(RYR1):c.7888G>C (p.Val2630Leu),not provided,not provided,no assertion provided,19,38502932,133215,136962,2630,-1
+NM_000540.2(RYR1):c.7890G>C (p.Val2630=),not specified,Likely benign,"criteria provided, single submitter",19,38502934,256566,257012,2630,-1
+NM_000540.2(RYR1):c.7938C>T (p.Asn2646=),not specified,Likely benign,"criteria provided, single submitter",19,38504231,256569,257015,2646,-1
+NM_000540.2(RYR1):c.7976C>T (p.Thr2659Met),not specified,"Uncertain significance(Last reviewed: Jan 30, 2017)","criteria provided, single submitter",19,38504269,393175,377623,2659,-1
+NM_000540.2(RYR1):c.8026C>T (p.Arg2676Trp),VARIANT OF UNKNOWN SIGNIFICANCE,"Uncertain significance(Last reviewed: Dec 2, 2013)","criteria provided, single submitter",19,38504319,133217,28024,2676,-1
+NM_000540.2(RYR1):c.8073C>T (p.Tyr2691=),not specified,"Conflicting interpretations of pathogenicity(Last reviewed: Nov 17, 2014)","criteria provided, conflicting interpretations",19,38504753,197922,195083,2691,-1
+NM_000540.2(RYR1):c.8188G>C (p.Asp2730His),not provided,not provided,no assertion provided,19,38504868,133218,136964,2730,-1
+NM_000540.2(RYR1):c.8189A>G (p.Asp2730Gly),not provided,not provided,no assertion provided,19,38504869,133219,136965,2730,-1
+NM_000540.2(RYR1):c.8198G>A (p.Gly2733Asp),not provided,not provided,no assertion provided,19,38504878,133220,136966,2733,-1
+NM_000540.2(RYR1):c.8289C>T (p.His2763=),not specified,"Likely benign(Last reviewed: Mar 29, 2016)","criteria provided, single submitter",19,38505060,384613,379555,2763,-1
+NM_000540.2(RYR1):c.8290G>A (p.Glu2764Lys),not specified|not provided,"Uncertain significance(Last reviewed: Jun 23, 2016)","criteria provided, single submitter",19,38505061,133221,136967,2764,-1
+NM_000540.2(RYR1):c.8313C>A (p.Ile2771=),not specified,Likely benign,"criteria provided, single submitter",19,38505311,256573,257019,2771,-1
+NM_000540.2(RYR1):c.8361C>T (p.Thr2787=),not specified,"Benign/Likely benign(Last reviewed: Dec 2, 2016)","criteria provided, multiple submitters, no conflicts",19,38505359,256574,257020,2787,-1
+NM_000540.2(RYR1):c.8417G>A (p.Arg2806His),not provided,"Uncertain significance(Last reviewed: Nov 30, 2016)","criteria provided, single submitter",19,38505822,425180,413514,2806,-1
+NM_000540.2(RYR1):c.8463G>A (p.Trp2821Ter),Myopathy,"Likely pathogenic(Last reviewed: Jul 6, 2016)",no assertion criteria provided,19,38505868,373926,361052,2821,-1
+NM_000540.2(RYR1):c.8505A>T (p.Glu2835Asp),not specified,"Uncertain significance(Last reviewed: Nov 17, 2014)","criteria provided, single submitter",19,38505910,197960,195121,2835,-1
+NM_000540.2(RYR1):c.8518C>T (p.Arg2840Trp),not provided,not provided,no assertion provided,19,38505923,133226,136971,2840,-1
+NM_000540.2(RYR1):c.8554C>T (p.Arg2852Ter),RYR1-Related Disorders,"Uncertain significance(Last reviewed: Jun 14, 2016)","criteria provided, single submitter",19,38506315,329081,333407,2852,-1
+NM_000540.2(RYR1):c.8598C>T (p.Thr2866=),not specified,"Uncertain significance(Last reviewed: Apr 10, 2015)","criteria provided, single submitter",19,38506359,212106,208591,2866,-1
+NM_000540.2(RYR1):c.8600T>A (p.Leu2867Gln),not provided,not provided,no assertion provided,19,38506361,133230,136975,2867,-1
+NM_000540.2(RYR1):c.8638G>A (p.Glu2880Lys),not provided,not provided,no assertion provided,19,38506492,133232,136977,2880,-1
+NM_000540.2(RYR1):c.8724C>A (p.Tyr2908Ter),Myopathy,"Pathogenic(Last reviewed: Dec 1, 2014)","criteria provided, single submitter",19,38506860,212107,208592,2908,1
+NM_000540.2(RYR1):c.8733C>A (p.Leu2911=),not specified,"Uncertain significance(Last reviewed: Jul 24, 2015)","criteria provided, single submitter",19,38506869,281589,265826,2911,-1
+NM_000540.2(RYR1):c.9090C>T (p.His3030=),not specified,"Likely benign(Last reviewed: Nov 15, 2016)","criteria provided, single submitter",19,38510749,390667,377445,3030,-1
+NM_000540.2(RYR1):c.9262G>C (p.Val3088Leu),not specified,"Uncertain significance(Last reviewed: Mar 1, 2013)","criteria provided, single submitter",19,38512273,93307,99214,3088,-1
+NM_000540.2(RYR1):c.9277C>T (p.Arg3093Cys),not specified,"Uncertain significance(Last reviewed: Mar 27, 2017)","criteria provided, single submitter",19,38512288,424556,410591,3093,-1
+NM_000540.2(RYR1):c.9310G>A (p.Glu3104Lys),not provided,not provided,no assertion provided,19,38512321,133240,136985,3104,-1
+NM_000540.2(RYR1):c.9354G>A (p.Ala3118=),not specified,"Uncertain significance(Last reviewed: Jul 14, 2015)","criteria provided, single submitter",19,38512365,281782,266019,3118,-1
+NM_000540.2(RYR1):c.9360C>T (p.Thr3120=),not specified,Likely benign,"criteria provided, single submitter",19,38512371,256582,257028,3120,-1
+NM_000540.2(RYR1):c.9456C>T (p.Phe3152=),not specified,"Conflicting interpretations of pathogenicity(Last reviewed: Jun 28, 2016)","criteria provided, conflicting interpretations",19,38512467,167621,178030,3152,-1
+NM_000540.2(RYR1):c.9476A>G (p.Asp3159Gly),not provided,"Uncertain significance(Last reviewed: Oct 31, 2016)","criteria provided, single submitter",19,38515029,425182,413516,3159,-1
+NM_000540.2(RYR1):c.9523C>G (p.Leu3175Val),not specified,"Uncertain significance(Last reviewed: Mar 10, 2017)","criteria provided, single submitter",19,38515076,424148,410592,3175,-1
+NM_000540.2(RYR1):c.9571G>A (p.Gly3191Arg),not specified,"Likely benign(Last reviewed: Jul 15, 2016)","criteria provided, single submitter",19,38516103,436627,430204,3191,-1
+NM_000540.2(RYR1):c.9579C>G (p.Cys3193Trp),not provided,"Pathogenic(Last reviewed: Jun 3, 2014)","criteria provided, single submitter",19,38516111,159864,169569,3193,-1
+NM_000540.2(RYR1):c.9587G>A (p.Arg3196His),not provided,"Uncertain significance(Last reviewed: Sep 30, 2016)","criteria provided, single submitter",19,38516119,425183,413517,3196,-1
+NM_000540.2(RYR1):c.9624G>T (p.Pro3208=),not specified,"Uncertain significance(Last reviewed: Oct 1, 2015)","criteria provided, single submitter",19,38516156,283542,267779,3208,-1
+NM_000540.2(RYR1):c.9673C>T (p.Arg3225Trp),not specified,"Uncertain significance(Last reviewed: Mar 3, 2017)","criteria provided, single submitter",19,38516205,423960,410594,3225,-1
+NM_000540.2(RYR1):c.9723C>T (p.Pro3241=),not specified,"Uncertain significance(Last reviewed: Apr 10, 2014)","criteria provided, single submitter",19,38517396,167622,178031,3241,-1
+NM_000540.2(RYR1):c.9789C>T (p.Tyr3263=),not specified,Likely benign,"criteria provided, single submitter",19,38517462,256588,257033,3263,-1
+NM_000540.2(RYR1):c.9861C>T (p.Arg3287=),not specified,Likely benign,"criteria provided, single submitter",19,38517534,256589,257034,3287,-1
+NM_000540.2(RYR1):c.9895G>A (p.Gly3299Ser),not specified,"Uncertain significance(Last reviewed: Jun 1, 2017)","criteria provided, single submitter",19,38517568,430542,422275,3299,-1
+NM_000540.2(RYR1):c.10043G>A (p.Arg3348His),not provided,not provided,no assertion provided,19,38519238,132988,136737,3348,-1
+NM_000540.2(RYR1):c.10086C>T (p.Ile3362=),not provided,not provided,no assertion provided,19,38519281,132989,136738,3362,-1
+NM_000540.2(RYR1):c.10147G>A (p.Ala3383Thr),not specified,"Uncertain significance(Last reviewed: Nov 29, 2016)","criteria provided, single submitter",19,38519342,373324,360418,3383,-1
+NM_000540.2(RYR1):c.10196C>T (p.Ser3399Phe),not specified,"Uncertain significance(Last reviewed: Apr 4, 2017)","criteria provided, single submitter",19,38519391,426796,415652,3399,-1
+NM_000540.2(RYR1):c.10219G>A (p.Ala3407Thr),not specified,"Uncertain significance(Last reviewed: Feb 23, 2017)","criteria provided, single submitter",19,38519414,420587,410595,3407,-1
+NM_000540.2(RYR1):c.10254C>T (p.Asn3418=),not specified,Likely benign,"criteria provided, single submitter",19,38519449,256387,257036,3418,-1
+NM_000540.2(RYR1):c.10350C>T (p.Asn3450=),not specified,Likely benign,"criteria provided, single submitter",19,38523219,256389,257038,3450,-1
+NM_000540.2(RYR1):c.10504C>T (p.Arg3502Trp),not specified,"Uncertain significance(Last reviewed: Nov 21, 2014)","criteria provided, single submitter",19,38525380,198645,195806,3502,-1
+NM_000540.2(RYR1):c.10564C>A (p.Leu3522Met),not provided,"Uncertain significance(Last reviewed: Nov 5, 2013)","criteria provided, single submitter",19,38525440,159827,169573,3522,-1
+NM_000540.2(RYR1):c.10594C>T (p.Leu3532Phe),not specified,"Uncertain significance(Last reviewed: May 9, 2017)","criteria provided, single submitter",19,38525470,429483,422276,3532,-1
+NM_000540.2(RYR1):c.10620C>G (p.Tyr3540Ter),Arthrogryposis multiplex congenita,"Pathogenic(Last reviewed: May 16, 2017)","criteria provided, single submitter",19,38525496,433177,426750,3540,1
+NM_000540.2(RYR1):c.10725_10726delGT (p.Tyr3576Profs),not provided,"Pathogenic(Last reviewed: May 30, 2017)","criteria provided, single submitter",19,38527685 - 38527686,436631,430205,3576,1
+NM_000540.2(RYR1):c.10730G>A (p.Arg3577Gln),Malignant hypothermia,"Uncertain significance(Last reviewed: Jun 11, 2015)","criteria provided, single submitter",19,38527690,218464,215567,3577,0
+NM_000540.2(RYR1):c.10917G>A (p.Thr3639=),not specified|not provided,"Uncertain significance(Last reviewed: Oct 31, 2016)","criteria provided, multiple submitters, no conflicts",19,38528398,198658,195819,3639,-1
+NM_000540.2(RYR1):c.11120G>T (p.Arg3707Leu),not provided,not provided,no assertion provided,19,38529036,133005,136753,3707,-1
+NM_000540.2(RYR1):c.11315G>A (p.Arg3772Gln),Scoliosis|Proximal muscle weakness|not provided|Delayed gross motor development|Pelvic girdle muscle weakness|Progressive distal muscle weakness,"Conflicting interpretations of pathogenicity(Last reviewed: Aug 5, 2016)","criteria provided, conflicting interpretations",19,38534775,133012,136760,3772,-1
+NM_000540.2(RYR1):c.11321C>T (p.Ala3774Val),Malignant hypothermia,"Uncertain significance(Last reviewed: Sep 24, 2015)","criteria provided, single submitter",19,38534781,252488,247165,3774,0
+NM_000540.2(RYR1):c.11556C>T (p.Ala3852=),not specified,Likely benign,"criteria provided, single submitter",19,38536036,256409,257056,3852,-1
+NM_000540.2(RYR1):c.11691T>C (p.Asp3897=),not specified,"Likely benign(Last reviewed: May 11, 2016)","criteria provided, single submitter",19,38543348,385637,379561,3897,-1
+NM_000540.2(RYR1):c.11708G>A (p.Arg3903Gln),not provided,not provided,no assertion provided,19,38543365,133017,136765,3903,-1
+NM_000540.2(RYR1):c.11748T>G (p.Ile3916Met),not provided,not provided,no assertion provided,19,38543405,133018,136766,3916,-1
+NM_000540.2(RYR1):c.11778G>A (p.Gln3926=),not provided,not provided,no assertion provided,19,38543435,133020,136768,3926,-1
+NM_000540.2(RYR1):c.11811G>A (p.Ser3937=),not specified,"Uncertain significance(Last reviewed: Dec 12, 2014)","criteria provided, single submitter",19,38543564,198961,196121,3937,-1
+NM_000540.2(RYR1):c.11878G>C (p.Val3960Leu),not specified,"Uncertain significance(Last reviewed: Feb 27, 2017)","criteria provided, single submitter",19,38543631,423688,410597,3960,-1
+NM_000540.2(RYR1):c.11953T>C (p.Trp3985Arg),not provided,not provided,no assertion provided,19,38543816,133025,136773,3985,-1
+NM_000540.2(RYR1):c.11969G>T (p.Gly3990Val),not provided,not provided,no assertion provided,19,38543832,133027,136775,3990,-1
+NM_000540.2(RYR1):c.11985C>T (p.Phe3995=),not specified,"Likely benign(Last reviewed: Jan 16, 2017)","criteria provided, single submitter",19,38543848,392746,377448,3995,-1
+NM_000540.2(RYR1):c.12149C>A (p.Ser4050Tyr),not provided,not provided,no assertion provided,19,38548287,133033,136781,4050,-1
+NM_000540.2(RYR1):c.12160G>A (p.Val4054Met),not specified,"Uncertain significance(Last reviewed: Sep 23, 2016)","criteria provided, single submitter",19,38548298,436628,430206,4054,-1
+NM_000540.2(RYR1):c.12183C>T (p.Phe4061=),not specified,Likely benign,"criteria provided, single submitter",19,38548321,256419,257066,4061,-1
+NM_000540.2(RYR1):c.12203A>G (p.Lys4068Arg),not specified,"Uncertain significance(Last reviewed: Feb 16, 2017)","criteria provided, single submitter",19,38548341,419904,410598,4068,-1
+NM_000540.2(RYR1):c.12241A>T (p.Thr4081Ser),not provided,not provided,no assertion provided,19,38548379,133035,136783,4081,-1
+NM_000540.2(RYR1):c.12250C>T (p.Arg4084Cys),not specified,"Uncertain significance(Last reviewed: Jul 17, 2015)","criteria provided, single submitter",19,38548388,431880,426306,4084,-1
+NM_000540.2(RYR1):c.12335C>T (p.Ser4112Leu),not provided,not provided,no assertion provided,19,38561165,81136,92027,4112,-1
+NM_000540.2(RYR1):c.12355A>T (p.Asn4119Tyr),not provided,not provided,no assertion provided,19,38561185,133036,136784,4119,-1
+NM_000540.2(RYR1):c.12406C>A (p.Arg4136Ser),not provided,not provided,no assertion provided,19,38561236,133037,136785,4136,-1
+NM_000540.2(RYR1):c.12413T>C (p.Ile4138Thr),not provided,not provided,no assertion provided,19,38561243,133038,136786,4138,-1
+NM_000540.2(RYR1):c.12575T>C (p.Ile4192Thr),not specified,"Uncertain significance(Last reviewed: Jun 13, 2017)","criteria provided, single submitter",19,38561405,432803,426307,4192,-1
+NM_000540.2(RYR1):c.12608A>G (p.Gln4203Arg),not specified,"Uncertain significance(Last reviewed: May 11, 2017)","criteria provided, single submitter",19,38561438,429565,422277,4203,-1
+NM_000540.2(RYR1):c.12629A>G (p.Lys4210Arg),not specified,"Uncertain significance(Last reviewed: Sep 12, 2013)","criteria provided, single submitter",19,38564963,93246,99153,4210,-1
+NM_000540.2(RYR1):c.12672C>T (p.Gly4224=),not specified,Likely benign,"criteria provided, single submitter",19,38565006,256423,257069,4224,-1
+NM_000540.2(RYR1):c.12700G>C (p.Val4234Leu),not provided,not provided,no assertion provided,19,38565034,133040,136788,4234,-1
+NM_000540.2(RYR1):c.12759C>T (p.Pro4253=),not specified,Likely benign,"criteria provided, single submitter",19,38565093,256424,257070,4253,-1
+NM_000540.2(RYR1):c.12841G>A (p.Gly4281Arg),not specified,"Uncertain significance(Last reviewed: May 12, 2017)","criteria provided, single submitter",19,38565175,429639,422278,4281,-1
+NM_000540.2(RYR1):c.12847G>A (p.Glu4283Lys),not specified,"Uncertain significance(Last reviewed: Oct 20, 2015)","criteria provided, single submitter",19,38565181,201142,198032,4283,-1
+NM_000540.2(RYR1):c.12848A>T (p.Glu4283Val),not provided,not provided,no assertion provided,19,38565182,133042,136790,4283,-1
+NM_000540.2(RYR1):c.12861_12869delCACGGCGGC (p.Thr4288_Ala4290del),not specified,"Uncertain significance(Last reviewed: Jan 11, 2016)","criteria provided, single submitter",19,38565195 - 38565203,285661,269898,4288,-1
+NM_000540.2(RYR1):c.12861_12869dupCACGGCGGC (p.Ala4290_Ala4291insThrAlaAla),not specified|not provided,"Uncertain significance(Last reviewed: Jan 21, 2014)","criteria provided, multiple submitters, no conflicts",19,38565195 - 38565203,93248,99155,4290,-1
+NM_000540.2(RYR1):c.12881C>T (p.Thr4294Met),not specified|not provided,"Uncertain significance(Last reviewed: Mar 1, 2016)","criteria provided, multiple submitters, no conflicts",19,38565215,159834,169579,4294,-1
+NM_000540.2(RYR1):c.12884C>T (p.Ala4295Val),not specified|not provided,"Uncertain significance(Last reviewed: Mar 3, 2017)","criteria provided, multiple submitters, no conflicts",19,38565218,133043,136791,4295,-1
+NM_000540.2(RYR1):c.12960_12968dupGCGGCGGCT (p.Leu4323_Thr4324insArgArgLeu),not provided,"Uncertain significance(Last reviewed: Nov 30, 2016)","criteria provided, single submitter",19,38565294 - 38565302,133044,136792,4323,-1
+NM_000540.2(RYR1):c.12984G>A (p.Ala4328=),not specified,"Likely benign(Last reviewed: Jun 23, 2016)","criteria provided, single submitter",19,38565318,387028,376464,4328,-1
+NM_000540.2(RYR1):c.12990C>G (p.Thr4330=),not specified,"Conflicting interpretations of pathogenicity(Last reviewed: Sep 22, 2016)","criteria provided, conflicting interpretations",19,38565324,291270,275507,4330,-1
+NM_000540.2(RYR1):c.13015G>C (p.Ala4339Pro),not provided,"Uncertain significance(Last reviewed: Oct 31, 2016)","criteria provided, single submitter",19,38565349,425185,413519,4339,-1
+NM_000540.2(RYR1):c.13022C>T (p.Thr4341Met),not provided,"Uncertain significance(Last reviewed: Jul 31, 2016)","criteria provided, single submitter",19,38565356,374619,361505,4341,-1
+NM_000540.2(RYR1):c.13036G>A (p.Ala4346Thr),not specified,"Uncertain significance(Last reviewed: Jun 13, 2017)","criteria provided, single submitter",19,38565370,432669,426308,4346,-1
+NM_000540.2(RYR1):c.13044G>A (p.Ala4348=),not specified,"Uncertain significance(Last reviewed: Jun 2, 2014)","criteria provided, single submitter",19,38565378,199215,196374,4348,-1
+NM_000540.2(RYR1):c.13122G>A (p.Val4374=),not specified,"Uncertain significance(Last reviewed: Oct 21, 2014)","criteria provided, single submitter",19,38565456,212093,208595,4374,-1
+NM_000540.2(RYR1):c.13142C>G (p.Ala4381Gly),not specified,"Uncertain significance(Last reviewed: Jan 6, 2015)","criteria provided, single submitter",19,38565476,199212,196371,4381,-1
+NM_000540.2(RYR1):c.13188G>A (p.Pro4396=),not specified,Likely benign,"criteria provided, single submitter",19,38565522,256425,257071,4396,-1
+NM_000540.2(RYR1):c.13190C>G (p.Ala4397Gly),not specified,"Likely benign(Last reviewed: Apr 1, 2015)","criteria provided, single submitter",19,38565524,379371,376465,4397,-1
+NM_000540.2(RYR1):c.13244_13264dup21 (p.Asp4421_Glu4422insAlaAlaGluGlyAlaGlyAsp),not specified,"Uncertain significance(Last reviewed: May 19, 2016)","criteria provided, single submitter",19,38565578 - 38565598,287765,272002,4421,-1
+NM_000540.2(RYR1):c.13254C>A (p.Gly4418=),not provided,not provided,no assertion provided,19,38565588,133047,136795,4418,-1
+NM_000540.2(RYR1):c.13263C>T (p.Asp4421=),not specified,"Likely benign(Last reviewed: Apr 21, 2016)","criteria provided, single submitter",19,38565597,385222,377628,4421,-1
+NM_000540.2(RYR1):c.13271A>C (p.Glu4424Ala),not specified,"Uncertain significance(Last reviewed: May 19, 2015)","criteria provided, single submitter",19,38565605,199213,196372,4424,-1
+NM_000540.2(RYR1):c.13341G>A (p.Arg4447=),not specified,Likely benign,"criteria provided, single submitter",19,38565675,256426,257072,4447,-1
+NM_000540.2(RYR1):c.13470G>A (p.Glu4490=),not provided,not provided,no assertion provided,19,38566943,133048,136796,4490,-1
+NM_000540.2(RYR1):c.13509A>G (p.Lys4503=),not provided,not provided,no assertion provided,19,38566982,133050,136798,4503,-1
+NM_000540.2(RYR1):c.13512C>T (p.Ala4504=),not specified,Likely benign,"criteria provided, single submitter",19,38566985,256428,257074,4504,-1
+NM_000540.2(RYR1):c.13518C>T (p.Ala4506=),not specified,Likely benign,"criteria provided, single submitter",19,38567776,256429,257075,4506,-1
+NM_000540.2(RYR1):c.13519G>A (p.Glu4507Lys),not specified,"Uncertain significance(Last reviewed: Apr 19, 2017)","criteria provided, single submitter",19,38567777,426352,415653,4507,-1
+NM_000540.2(RYR1):c.13547A>G (p.Glu4516Gly),not specified,"Uncertain significance(Last reviewed: Aug 18, 2016)","criteria provided, single submitter",19,38567805,290114,274351,4516,-1
+NM_000540.2(RYR1):c.13548G>C (p.Glu4516Asp),not provided,"Uncertain significance(Last reviewed: Sep 8, 2016)","criteria provided, single submitter",19,38567806,377305,364183,4516,-1
+NM_000540.2(RYR1):c.13565C>T (p.Pro4522Leu),not specified,"Uncertain significance(Last reviewed: Feb 24, 2016)","criteria provided, single submitter",19,38567823,286387,270624,4522,-1
+NM_000540.2(RYR1):c.13568A>G (p.Lys4523Arg),not specified,"Likely benign(Last reviewed: Dec 21, 2015)","criteria provided, single submitter",19,38567826,382302,379563,4523,-1
+NM_000540.2(RYR1):c.13617C>T (p.Gly4539=),not provided,not provided,no assertion provided,19,38567875,133052,136800,4539,-1
+NM_000540.2(RYR1):c.13654T>A (p.Phe4552Ile),not provided,"Likely pathogenic(Last reviewed: Aug 13, 2015)","criteria provided, single submitter",19,38567912,427029,415654,4552,-1
+NM_000540.2(RYR1):c.13680T>C (p.Phe4560=),not specified,"Uncertain significance(Last reviewed: Sep 13, 2014)","criteria provided, single submitter",19,38570627,199229,196388,4560,-1
+NM_000540.2(RYR1):c.13690C>T (p.Arg4564Trp),not specified,"Uncertain significance(Last reviewed: Aug 31, 2015)","criteria provided, single submitter",19,38570637,282726,266963,4564,-1
+NM_000540.2(RYR1):c.13691G>A (p.Arg4564Gln),Malignant hypothermia,"Uncertain significance(Last reviewed: Jun 23, 2015)","criteria provided, single submitter",19,38570638,218466,215569,4564,0
+NM_000540.2(RYR1):c.13768G>A (p.Glu4590Lys),not specified,"Likely benign(Last reviewed: Apr 1, 2015)","criteria provided, single submitter",19,38572040,212094,208596,4590,-1
+NM_000540.2(RYR1):c.13773C>T (p.Asp4591=),not specified,"Likely benign(Last reviewed: Oct 5, 2016)","criteria provided, single submitter",19,38572045,389432,377633,4591,-1
+NM_000540.2(RYR1):c.13847C>A (p.Ala4616Asp),not specified,"Likely benign(Last reviewed: Nov 1, 2016)","criteria provided, multiple submitters, no conflicts",19,38572119,256433,257079,4616,-1
+NM_000540.2(RYR1):c.13851A>G (p.Gly4617=),not specified,"Uncertain significance(Last reviewed: Sep 5, 2014)","criteria provided, single submitter",19,38572123,199233,196392,4617,-1
+NM_000540.2(RYR1):c.13863G>A (p.Glu4621=),not specified,Likely benign,"criteria provided, single submitter",19,38572135,256434,257080,4621,-1
+NM_000540.2(RYR1):c.13934G>A (p.Arg4645Gln),not specified|not provided,"Uncertain significance(Last reviewed: Dec 21, 2016)","criteria provided, single submitter",19,38572206,133053,136801,4645,-1
+NM_000540.2(RYR1):c.13941_13946delGAGCCT (p.Ser4648_Leu4649del),not provided,not provided,no assertion provided,19,38572213 - 38572218,133054,136802,4648,-1
+NM_000540.2(RYR1):c.13994_13995delTCinsCT (p.Leu4665Pro),not provided,not provided,no assertion provided,19,38572266 - 38572267,133055,136803,4665,-1
+NM_000540.2(RYR1):c.14002C>T (p.Pro4668Ser),not provided,not provided,no assertion provided,19,38573180,133056,136804,4668,-1
+NM_000540.2(RYR1):c.14004C>T (p.Pro4668=),not specified,"Likely benign(Last reviewed: Apr 20, 2015)","criteria provided, single submitter",19,38573182,256438,257084,4668,-1
+NM_000540.2(RYR1):c.14051T>C (p.Phe4684Ser),not provided,not provided,no assertion provided,19,38573229,133057,136805,4684,-1
+NM_000540.2(RYR1):c.14058C>G (p.Gly4686=),not specified,Likely benign,"criteria provided, single submitter",19,38573236,256439,257085,4686,-1
+NM_000540.2(RYR1):c.14061G>A (p.Leu4687=),not specified,"Likely benign(Last reviewed: Feb 5, 2015)","criteria provided, single submitter",19,38573239,199237,196396,4687,-1
+NM_000540.2(RYR1):c.14091C>T (p.Asp4697=),not specified,"Likely benign(Last reviewed: Mar 3, 2016)","criteria provided, single submitter",19,38573269,384003,377450,4697,-1
+NM_000540.2(RYR1):c.14157G>A (p.Lys4719=),not specified,Likely benign,"criteria provided, single submitter",19,38575946,256441,257087,4719,-1
+NM_000540.2(RYR1):c.14197T>G (p.Tyr4733Asp),not provided,not provided,no assertion provided,19,38577942,133058,136806,4733,-1
+NM_000540.2(RYR1):c.14201G>A (p.Gly4734Glu),not provided,not provided,no assertion provided,19,38577946,133059,136807,4734,-1
+NM_000540.2(RYR1):c.14203C>T (p.Arg4735Trp),not specified,"Uncertain significance(Last reviewed: May 5, 2015)","criteria provided, single submitter",19,38577948,199248,196407,4735,-1
+NM_000540.2(RYR1):c.14209C>T (p.Arg4737Trp),not provided,not provided,no assertion provided,19,38577954,133060,136808,4737,-1
+NM_000540.2(RYR1):c.14210G>A (p.Arg4737Gln),not provided,"Pathogenic(Last reviewed: Jun 6, 2017)","criteria provided, single submitter",19,38577955,133061,136809,4737,-1
+NM_000540.2(RYR1):c.14228G>A (p.Gly4743Asp),not provided,not provided,no assertion provided,19,38577973,133062,136810,4743,-1
+NM_000540.2(RYR1):c.14343C>T (p.Phe4781=),not specified,"Likely benign(Last reviewed: Dec 15, 2016)","criteria provided, single submitter",19,38578183,391773,379564,4781,-1
+NM_000540.2(RYR1):c.14344G>A (p.Gly4782Arg),not specified,"Uncertain significance(Last reviewed: May 31, 2017)","criteria provided, multiple submitters, no conflicts",19,38578184,285009,269246,4782,-1
+NM_000540.2(RYR1):c.14410C>T (p.His4804Tyr),not provided,not provided,no assertion provided,19,38580027,133066,136814,4804,-1
+NM_000540.2(RYR1):c.14416A>G (p.Asn4806Asp),not specified|not provided,"Conflicting interpretations of pathogenicity(Last reviewed: Jul 26, 2016)","criteria provided, conflicting interpretations",19,38580033,265505,260214,4806,-1
+NM_000540.2(RYR1):c.14422T>A (p.Phe4808Ile),not provided,not provided,no assertion provided,19,38580039,133067,136815,4808,-1
+NM_000540.2(RYR1):c.14449A>T (p.Ile4817Phe),not provided,not provided,no assertion provided,19,38580066,133068,136816,4817,-1
+NM_000540.2(RYR1):c.14451C>T (p.Ile4817=),not specified,"Likely benign(Last reviewed: Nov 8, 2016)","criteria provided, single submitter",19,38580068,390365,377634,4817,-1
+NM_000540.2(RYR1):c.14458G>T (p.Gly4820Trp),not provided,not provided,no assertion provided,19,38580075,133069,136817,4820,-1
+NM_000540.2(RYR1):c.14469G>T (p.Thr4823=),not specified,Likely benign,"criteria provided, single submitter",19,38580086,256448,257090,4823,-1
+NM_000540.2(RYR1):c.14471T>C (p.Leu4824Pro),not provided,not provided,no assertion provided,19,38580088,133070,136818,4824,-1
+NM_000540.2(RYR1):c.14474G>C (p.Arg4825Pro),not provided,not provided,no assertion provided,19,38580091,133071,136819,4825,-1
+NM_000540.2(RYR1):c.14480T>A (p.Ile4827Asn),not specified,"Uncertain significance(Last reviewed: Apr 24, 2014)","criteria provided, single submitter",19,38580097,167625,177035,4827,-1
+NM_000540.2(RYR1):c.14495C>A (p.Thr4832Asn),not provided,"Pathogenic(Last reviewed: May 28, 2015)","criteria provided, single submitter",19,38580112,379719,376472,4832,-1
+NM_000540.2(RYR1):c.14497C>T (p.His4833Tyr),not provided,not provided,no assertion provided,19,38580114,133072,136820,4833,-1
+NM_000540.2(RYR1):c.14510delA (p.Gln4837Argfs),not provided,not provided,no assertion provided,19,38580127,133073,136821,4837,-1
+NM_000540.2(RYR1):c.14512C>G (p.Leu4838Val),not provided,not provided,no assertion provided,19,38580370,133074,136822,4838,-1
+NM_000540.2(RYR1):c.14523C>T (p.Thr4841=),not specified,"Likely benign(Last reviewed: Sep 30, 2016)","criteria provided, single submitter",19,38580381,389441,377636,4841,-1
+NM_000540.2(RYR1):c.14552T>C (p.Leu4851Pro),not provided,"Pathogenic(Last reviewed: Apr 17, 2017)","criteria provided, single submitter",19,38580410,426450,415655,4851,-1
+NM_000540.2(RYR1):c.14555A>G (p.Tyr4852Cys),not specified,"Uncertain significance(Last reviewed: Nov 9, 2015)","criteria provided, single submitter",19,38580413,284245,268482,4852,-1
+NM_000540.2(RYR1):c.14567C>G (p.Ala4856Gly),not provided,not provided,no assertion provided,19,38580425,133077,136824,4856,-1
+NM_000540.2(RYR1):c.14578_14580delTTC (p.Phe4860del),not provided,not provided,no assertion provided,19,38580436 - 38580438,133079,136826,4860,-1
+NM_000540.2(RYR1):c.14578T>G (p.Phe4860Val),not provided,not provided,no assertion provided,19,38580436,133078,136825,4860,-1
+NM_000540.2(RYR1):c.14588_14605del18 (p.Phe4863_Asp4869delinsTyr),not provided,not provided,no assertion provided,19,38580446 - 38580463,133080,136827,4863,-1
+NM_000540.2(RYR1):c.14600G>A (p.Ser4867Asn),not provided,"Likely pathogenic(Last reviewed: Jun 26, 2014)","criteria provided, single submitter",19,38580458,159837,169582,4867,-1
+NM_000540.2(RYR1):c.14616_14621dupACCTGA (p.Pro4873_Asp4874insGluPro),not specified,"Uncertain significance(Last reviewed: Feb 2, 2017)","criteria provided, single submitter",19,38580474 - 38580479,423296,410600,4873,-1
+NM_000540.2(RYR1):c.14627A>G (p.Lys4876Arg),not provided,not provided,no assertion provided,19,38580485,133081,136828,4876,-1
+NM_000540.2(RYR1):c.14639T>A (p.Met4880Lys),not specified,"Uncertain significance(Last reviewed: Dec 28, 2015)","criteria provided, single submitter",19,38580497,285088,269325,4880,-1
+NM_000540.2(RYR1):c.14639T>C (p.Met4880Thr),not provided,not provided,no assertion provided,19,38580497,133082,136829,4880,-1
+NM_000540.2(RYR1):c.14646G>A (p.Thr4882=),not specified,"Uncertain significance(Last reviewed: Nov 3, 2014)","criteria provided, single submitter",19,38580504,212095,208597,4882,-1
+NM_000540.2(RYR1):c.14667C>G (p.Tyr4889Ter),not provided,not provided,no assertion provided,19,38584963,133086,136833,4889,-1
+NM_000540.2(RYR1):c.14672G>A (p.Gly4891Asp),not specified|not provided,"Conflicting interpretations of pathogenicity(Last reviewed: Aug 25, 2015)","criteria provided, conflicting interpretations",19,38584968,93256,99163,4891,-1
+NM_000540.2(RYR1):c.14680G>C (p.Ala4894Pro),not specified|not provided,"Uncertain significance(Last reviewed: Mar 23, 2015)","criteria provided, single submitter",19,38584976,133088,136835,4894,-1
+NM_000540.2(RYR1):c.14680G>A (p.Ala4894Thr),not provided,not provided,no assertion provided,19,38584976,133087,136834,4894,-1
+NM_000540.2(RYR1):c.14681C>T (p.Ala4894Val),not provided,not provided,no assertion provided,19,38584977,133089,136836,4894,-1
+NM_000540.2(RYR1):c.14695G>A (p.Gly4899Arg),not provided,not provided,no assertion provided,19,38584991,133090,136837,4899,-1
+NM_000540.2(RYR1):c.14713C>A (p.Pro4905Thr),Generalized muscle weakness|Congenital hip dislocation|EMG: myopathic abnormalities|Congenital muscular dystrophy,"Uncertain significance(Last reviewed: Nov 14, 2014)","criteria provided, single submitter",19,38585009,374142,361054,4905,1
+NM_000540.2(RYR1):c.14717C>G (p.Ala4906Gly),not specified,"Uncertain significance(Last reviewed: Dec 17, 2014)","criteria provided, single submitter",19,38585013,193772,190935,4906,-1
+NM_000540.2(RYR1):c.14731G>A (p.Glu4911Lys),not specified,"Uncertain significance(Last reviewed: Jul 15, 2016)","criteria provided, single submitter",19,38585027,289526,273763,4911,-1
+NM_000540.2(RYR1):c.14770_14772delTTC (p.Phe4924del),not provided,"Likely pathogenic(Last reviewed: Sep 22, 2016)","criteria provided, multiple submitters, no conflicts",19,38585066 - 38585068,420588,410601,4924,-1
+NM_000540.2(RYR1):c.14779G>T (p.Val4927Phe),not provided,not provided,no assertion provided,19,38585075,133091,136838,4927,-1
+NM_000540.2(RYR1):c.14814C>T (p.Ile4938=),not specified,"Likely benign(Last reviewed: Aug 11, 2016)","criteria provided, single submitter",19,38585948,403410,390410,4938,-1
+NM_000540.2(RYR1):c.14815G>A (p.Asp4939Asn),not provided,"Likely pathogenic(Last reviewed: Jun 5, 2017)","criteria provided, single submitter",19,38585949,201153,198034,4939,-1
+NM_000540.2(RYR1):c.14817C>A (p.Asp4939Glu),not provided,not provided,no assertion provided,19,38585951,133093,136840,4939,-1
+NM_000540.2(RYR1):c.14825G>T (p.Gly4942Val),not provided,not provided,no assertion provided,19,38585959,133094,136841,4942,-1
+NM_000540.2(RYR1):c.14842C>A (p.Gln4948Lys),not provided,"Likely pathogenic(Last reviewed: Aug 15, 2016)","criteria provided, single submitter",19,38585976,436629,430208,4948,-1
+NM_000540.2(RYR1):c.14879T>A (p.Phe4960Tyr),not provided,not provided,no assertion provided,19,38586101,133096,136843,4960,-1
+NM_000540.2(RYR1):c.14892C>A (p.Ile4964=),not provided,not provided,no assertion provided,19,38586114,133097,136844,4964,-1
+NM_000540.2(RYR1):c.14939C>T (p.Thr4980Met),not specified,"Uncertain significance(Last reviewed: Aug 21, 2012)","criteria provided, single submitter",19,38586161,93257,99164,4980,-1
+NM_000540.2(RYR1):c.15030T>A (p.Tyr5010Ter),not provided,"Likely pathogenic(Last reviewed: Oct 31, 2016)","criteria provided, single submitter",19,38587333,425187,413521,5010,-1
+NM_000540.2(RYR1):c.15099T>C (p.Tyr5033=),not specified,Likely benign,"criteria provided, single submitter",19,38587402,256456,257098,5033,-1

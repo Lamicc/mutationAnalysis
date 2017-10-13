@@ -37,6 +37,8 @@ x = []
 y = []
 z = []
 
+df = df[df.Label>=0]
+
 #for i in [2434,4838,615,2206,4808,4630,4939]:#240,965
 for i in df.Amino_acid:
     #for chain in chains:
