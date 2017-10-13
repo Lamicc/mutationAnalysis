@@ -1,4 +1,4 @@
-#python 2.7
+#python 2.7/3
 
 from Bio.PDB import *
 import pandas as pd
@@ -37,8 +37,6 @@ x = []
 y = []
 z = []
 
-df = df[df.Label>=0]
-
 #for i in [2434,4838,615,2206,4808,4630,4939]:#240,965
 for i in df.Amino_acid:
     #for chain in chains:
@@ -66,6 +64,11 @@ df = pd.concat([df,x,y,z], axis=1)
 
 ##delete rows without coordinate
 df = df.dropna(axis=0, how='any')
+
+df.to_csv("./dataset.csv",index=False)
+
+##delete unlabelled rows
+df = df[df.Label>=0]
 
 ##set up color list
 color = []
