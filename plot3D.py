@@ -10,7 +10,7 @@ parser = MMCIFParser()
 #pdbl.retrieve_pdb_file('5GL1')
 
 ##load a mmcif file
-struct = parser.get_structure('5gl1', '5gl1.cif')
+struct = parser.get_structure('5gl1', './mmcif/5gl1.cif')
 
 ##get meta data(if any)
 #print struct.header.keys()
@@ -65,7 +65,7 @@ df = pd.concat([df,x,y,z], axis=1)
 ##delete rows without coordinate
 df = df.dropna(axis=0, how='any')
 
-df.to_csv("./dataset.csv",index=False)
+df.to_csv("./csv/dataset.csv",index=False)
 
 ##delete unlabelled rows
 df = df[df.Label>=0]

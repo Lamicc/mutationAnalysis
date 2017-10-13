@@ -3,7 +3,7 @@ import pandas as pd
 from random import shuffle
 
 #import data
-df = pd.read_csv("./clinvar_result.csv")
+df = pd.read_csv("./csv/clinvar_result.csv")
 df = df[df['Name'].str.contains('\(p.*')]
 for i in df.index:
     aa = filter(str.isdigit, df.Name.str.split()[i][1])
@@ -32,7 +32,7 @@ supdf = df.drop(newdf.index)
 supdf.loc[:,'Label'] = -1
 newdf = pd.concat([newdf,supdf])
 newdf = newdf.reset_index(drop=True)
-newdf.to_csv("./dataframe.csv",index=False)
+newdf.to_csv("./csv/dataframe.csv",index=False)
 
 #df_my.to_csv("./my.csv")
 #df_hy.to_csv("./hy.csv")

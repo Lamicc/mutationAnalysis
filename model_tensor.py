@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 
 try :
-    df = pd.read_csv("./dataset.csv")
+    df = pd.read_csv("./csv/dataset.csv")
 except IOError:
     print("File not found!")
 
