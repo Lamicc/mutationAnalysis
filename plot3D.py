@@ -20,7 +20,7 @@ struct = parser.get_structure('5gl1', './mmcif/5gl1.cif')
 
 ##load dataset
 try :
-    df = pd.read_csv("./dataframe.csv")
+    df = pd.read_csv("./csv/dataframe.csv")
 except IOError:
     print("File not found!")
 
