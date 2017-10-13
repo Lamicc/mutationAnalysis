@@ -68,7 +68,7 @@ df = df.dropna(axis=0, how='any')
 ##set up color list
 color = []
 for i in df.index:
-    if df.loc[i,'Label'] == "congenital myopathy":
+    if df.loc[i,'Label'] == 1:
         color.append('r')
     else:
         color.append('b')

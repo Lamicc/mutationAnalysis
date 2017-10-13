@@ -14,7 +14,7 @@ for i in df.index:
 
 #congenital myopathy group
 df_my = df[df['Condition(s)'].str.contains('disease|myopathy')]
-df_my.loc[:,'Label'] = "congenital myopathy"
+df_my.loc[:,'Label'] = 1
 #li = df_my.Amino_acid.tolist()
 #shuffle(li)
 #print('+'.join(li))
@@ -22,7 +22,7 @@ df_my.loc[:,'Label'] = "congenital myopathy"
 #malignant hyperthermia group
 temp = df[~df['Condition(s)'].str.contains('disease|myopathy')]
 df_hy = temp[temp['Condition(s)'].str.contains('hyperthermia')]
-df_hy.loc[:,'Label'] = "malignant hyperthermia"
+df_hy.loc[:,'Label'] = 0
 #li = df_hy.Amino_acid.tolist()
 #shuffle(li)
 #print('+'.join(li))
