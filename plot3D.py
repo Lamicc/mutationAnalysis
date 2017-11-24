@@ -33,15 +33,21 @@ chains = list(models[0].get_chains())
 #print chains
 
 ##create coordinate lists
-x = []
-y = []
-z = []
+#x = []
+#y = []
+#z = []
 
 #for i in [2434,4838,615,2206,4808,4630,4939]:#240,965
-for i in df.Amino_acid:
+
+for chain in chains:
+    if len(chain)>200:
+        x = []
+        y = []
+        z = []
+        for i in df.Amino_acid:
     #for chain in chains:
     #    if len(chain)>200:
-            chain = chains[0]
+            #chain = chains[0]
             #print chain
             #residues = list(chain.get_residues())
             try:
@@ -57,10 +63,10 @@ for i in df.Amino_acid:
                 z.append(None)
 
 ##add columns to store coordinate
-x = pd.Series(x,name='x')
-y = pd.Series(y,name='y')
-z = pd.Series(z,name='z')
-df = pd.concat([df,x,y,z], axis=1)
+        x = pd.Series(x,name='x'+str(chain.get_id()))
+        y = pd.Series(y,name='y'+str(chain.get_id()))
+        z = pd.Series(z,name='z'+str(chain.get_id()))
+        df = pd.concat([df,x,y,z], axis=1)
 
 ##delete rows without coordinate
 df = df.dropna(axis=0, how='any')
@@ -81,5 +87,7 @@ for i in df.index:
 ##plot
 fig = plt.figure()
 ax = fig.add_subplot(111, projection='3d')
-ax.scatter(df.x, df.y, df.z,c=color)
+for chain in chains:
+    if len(chain)>200:
+        ax.scatter(df['x'+str(chain.get_id())], df['y'+str(chain.get_id())], df['z'+str(chain.get_id())],c=color)
 plt.show()
